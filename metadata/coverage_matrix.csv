@@ -1,0 +1,41 @@
+species_common,storage_age_days,observations,product_state,geography,measured_temperature_c_available,specimen_matched_outcome_available
+Mackerel,0,620,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,1,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,2,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,3,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,4,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,5,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,6,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,7,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,8,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,9,840,ice_stored_whole_fish,Indonesia,False,False
+Mackerel,10,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,0,629,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,1,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,2,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,3,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,4,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,5,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,6,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,7,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,8,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,9,840,ice_stored_whole_fish,Indonesia,False,False
+Tilapia,10,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,0,629,ice_stored_whole_fish,Indonesia,False,False
+Tuna,1,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,2,881,ice_stored_whole_fish,Indonesia,False,False
+Tuna,3,841,ice_stored_whole_fish,Indonesia,False,False
+Tuna,4,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,5,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,6,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,7,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,8,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,9,840,ice_stored_whole_fish,Indonesia,False,False
+Tuna,10,840,ice_stored_whole_fish,Indonesia,False,False
+Rainbow trout,0,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,1,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,2,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,3,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,4,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,5,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False
+Rainbow trout,6,3600,refrigerated_fillet,source study; country not confirmed from metadata,False,False

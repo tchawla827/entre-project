@@ -1,0 +1,18 @@
+{
+  "held_out_cell_mean_interpolation": {
+    "mae": 2.5945833333333335,
+    "rmse": 4.6884646785132835,
+    "bias": 2.455416666666667
+  },
+  "day30_carry_forward_baseline": {
+    "mae": 3.545,
+    "rmse": 5.205415449318141,
+    "bias": -3.545
+  },
+  "n_treatment_arms": 6,
+  "n_postbaseline_measured_rows": 36,
+  "n_independent_processing_runs": "unknown",
+  "validation": "within-study cell interpolation only",
+  "variable_temperature_kinetics": "BLOCKED",
+  "all_endpoint_metrics": "smoked_catfish_all_endpoint_metrics.csv"
+}

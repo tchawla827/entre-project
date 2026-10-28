@@ -1,0 +1,12 @@
+{
+  "deterministic_replay": true,
+  "stage_decomposition_exact": true,
+  "warming_monotonic_air_exposure": true,
+  "zero_duration_no_exposure": true,
+  "15min_vs_5min_relative_difference": 0.0006350924545229622,
+  "30min_degree_hours": 15.015356498141351,
+  "15min_degree_hours": 15.045518284998254,
+  "5min_degree_hours": 15.055079652487791,
+  "spoilage_probability_refused": true,
+  "quality_trajectory_refused": true
+}

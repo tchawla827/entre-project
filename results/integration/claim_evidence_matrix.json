@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "claims": [
+    {"claim": "Configured air/sea stages generate reproducible simulated thermal exposure", "status": "SUPPORTED_ENGINEERING", "evidence": ["scenario_comparison.parquet", "stage_contributions.parquet", "run_manifest.json", "../..\/reports/integration/validation_and_tests.md"]},
+    {"claim": "Road is largest under nominal configured single-stage events", "status": "SUPPORTED_CONDITIONAL_SIMULATION", "evidence": ["scenario_comparison.parquet", "intervention_attribution.parquet", "ranking_draws.parquet"], "qualification": "Reverses under changed event magnitudes or standardized comparisons"},
+    {"claim": "An assumed product lag produces a distinct simulated channel", "status": "SUPPORTED_ENGINEERING", "evidence": ["scenario_comparison.parquet", "traces/air/synthetic/baseline.parquet"], "qualification": "Not measured fish core"},
+    {"claim": "Trout day-only TVC and smoked-catfish endpoint predictions work within source domains", "status": "SUPPORTED_LIMITED_WITHIN_STUDY", "evidence": ["../../reports/modeling/final_handoff.md", "../../tests/integration/test_contract.py"], "qualification": "No variable-temperature transport or spoilage probability inference"},
+    {"claim": "Phase 4 predicts actual fish spoilage or shelf life", "status": "BLOCKED", "evidence": ["../../reports/integration/model_capabilities_and_blockers.md"], "missing": "specimen-linked multi-temperature quality and independent shipment outcomes"},
+    {"claim": "Phase 4 validates Indian export shipment reliability", "status": "BLOCKED", "evidence": ["../../reports/data/scientific_sufficiency_report.md"], "missing": "paired real Indian shipment temperature and measured final quality outcomes"}
+  ]
+}

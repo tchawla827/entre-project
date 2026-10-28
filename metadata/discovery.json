@@ -1,0 +1,139 @@
+[
+  {
+    "id": "dafif_inventory",
+    "url": "https://data.mendeley.com/public-api/datasets/vx4ptwk3pb/files?folder_id=root&version=1&$limit=1000",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 2,
+    "path": "data\\raw\\discovery\\dafif_inventory.bin"
+  },
+  {
+    "id": "berry_inventory",
+    "url": "https://data.mendeley.com/public-api/datasets/mvr7m6mcgp/files?folder_id=root&version=2&$limit=1000",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 4285,
+    "path": "data\\raw\\discovery\\berry_inventory.bin"
+  },
+  {
+    "id": "spectroscopy_api",
+    "url": "https://zenodo.org/api/records/3237542",
+    "status": 504,
+    "content_type": "text/html",
+    "bytes": 92,
+    "path": "data\\raw\\discovery\\spectroscopy_api.bin"
+  },
+  {
+    "id": "spectroscopy_supplement",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41598-020-68156-2/MediaObjects/41598_2020_68156_MOESM2_ESM.xlsx",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "bytes": 21825,
+    "path": "data\\raw\\discovery\\spectroscopy_supplement.bin"
+  },
+  {
+    "id": "dafif_api",
+    "url": "https://data.mendeley.com/public-api/datasets/vx4ptwk3pb/versions/1",
+    "status": "cached",
+    "bytes": 180,
+    "path": "data\\raw\\discovery\\dafif_api.bin"
+  },
+  {
+    "id": "dafif_files",
+    "url": "https://data.mendeley.com/public-api/datasets/vx4ptwk3pb/versions/1/files",
+    "status": "cached",
+    "bytes": 186,
+    "path": "data\\raw\\discovery\\dafif_files.bin"
+  },
+  {
+    "id": "berry_api",
+    "url": "https://data.mendeley.com/public-api/datasets/mvr7m6mcgp/versions/2",
+    "status": "cached",
+    "bytes": 180,
+    "path": "data\\raw\\discovery\\berry_api.bin"
+  },
+  {
+    "id": "berry_files",
+    "url": "https://data.mendeley.com/public-api/datasets/mvr7m6mcgp/versions/2/files",
+    "status": "cached",
+    "bytes": 186,
+    "path": "data\\raw\\discovery\\berry_files.bin"
+  },
+  {
+    "id": "dafif_article",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11528684/fullTextXML",
+    "status": "cached",
+    "bytes": 110948,
+    "path": "data\\raw\\discovery\\dafif_article.bin"
+  },
+  {
+    "id": "horse_mackerel_article",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9391519/fullTextXML",
+    "status": "cached",
+    "bytes": 101121,
+    "path": "data\\raw\\discovery\\horse_mackerel_article.bin"
+  },
+  {
+    "id": "spectroscopy_article",
+    "url": "https://www.nature.com/articles/s41598-020-68156-2",
+    "status": "cached",
+    "bytes": 385467,
+    "path": "data\\raw\\discovery\\spectroscopy_article.bin"
+  },
+  {
+    "id": "mpeda",
+    "url": "https://mpeda.gov.in/?page_id=438",
+    "status": "cached",
+    "bytes": 237894,
+    "path": "data\\raw\\discovery\\mpeda.bin"
+  },
+  {
+    "id": "dryad",
+    "url": "https://datadryad.org/api/v2/datasets/doi:10.5061/dryad.6708r",
+    "status": "cached",
+    "bytes": 0,
+    "path": "data\\raw\\discovery\\dryad.bin"
+  },
+  {
+    "id": "coldroom",
+    "url": "https://zenodo.org/api/records/15130001",
+    "status": "cached",
+    "bytes": 8600,
+    "path": "data\\raw\\discovery\\coldroom.bin"
+  },
+  {
+    "id": "trout",
+    "url": "https://zenodo.org/api/records/23600663",
+    "status": "cached",
+    "bytes": 92,
+    "path": "data\\raw\\discovery\\trout.bin"
+  },
+  {
+    "id": "catfish",
+    "url": "https://data.mendeley.com/public-api/datasets/tvsw53j89z/versions/1/files",
+    "status": "cached",
+    "bytes": 186,
+    "path": "data\\raw\\discovery\\catfish.bin"
+  },
+  {
+    "id": "eu853",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0853",
+    "status": "cached",
+    "bytes": 0,
+    "path": "data\\raw\\discovery\\eu853.bin"
+  },
+  {
+    "id": "noaa",
+    "url": "https://repository.library.noaa.gov/view/noaa/34680/noaa_34680_DS1.pdf",
+    "status": "cached",
+    "bytes": 219090,
+    "path": "data\\raw\\discovery\\noaa.bin"
+  },
+  {
+    "id": "india_operations",
+    "url": "https://dmeo.gov.in/sites/default/files/2021-08/Package1_Fisheries_CaseStudy1.pdf",
+    "status": "cached",
+    "bytes": 211985,
+    "path": "data\\raw\\discovery\\india_operations.bin"
+  }
+]

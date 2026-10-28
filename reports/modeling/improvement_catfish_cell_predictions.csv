@@ -1,0 +1,169 @@
+endpoint,package_type,storage_condition,method,observed_day60,predicted_day60,absolute_error
+Coliform count,LDPE,Ambient,linear_interpolation_existing,865.0,935.0,70.0
+Coliform count,LDPE,Ambient,day30_carry_forward,865.0,1870.0,1005.0
+Coliform count,LDPE,Ambient,pchip_shape_preserving,865.0,1597.0833333333333,732.0833333333333
+Coliform count,LDPE,Ambient,quadratic_through_anchors,865.0,1791.6666666666677,926.6666666666677
+Coliform count,LDPE,Refrigerated,linear_interpolation_existing,27.0,480.0,453.0
+Coliform count,LDPE,Refrigerated,day30_carry_forward,27.0,960.0,933.0
+Coliform count,LDPE,Refrigerated,pchip_shape_preserving,27.0,800.8333333333334,773.8333333333334
+Coliform count,LDPE,Refrigerated,quadratic_through_anchors,27.0,881.666666666667,854.666666666667
+Coliform count,Paper,Ambient,linear_interpolation_existing,1055.0,5002.5,3947.5
+Coliform count,Paper,Ambient,day30_carry_forward,1055.0,845.0,210.0
+Coliform count,Paper,Ambient,pchip_shape_preserving,1055.0,3617.5393525992904,2562.5393525992904
+Coliform count,Paper,Ambient,quadratic_through_anchors,1055.0,3819.9999999999986,2764.9999999999986
+Coliform count,Paper,Refrigerated,linear_interpolation_existing,1155.0,2157.5,1002.5
+Coliform count,Paper,Refrigerated,day30_carry_forward,1155.0,830.0,325.0
+Coliform count,Paper,Refrigerated,pchip_shape_preserving,1155.0,1900.6240758709914,745.6240758709914
+Coliform count,Paper,Refrigerated,quadratic_through_anchors,1155.0,1913.3333333333328,758.3333333333328
+Coliform count,Vacuum,Ambient,linear_interpolation_existing,11.5,1013.7500000000001,1002.2500000000001
+Coliform count,Vacuum,Ambient,day30_carry_forward,11.5,2027.5,2016.0
+Coliform count,Vacuum,Ambient,pchip_shape_preserving,11.5,1734.8958333333333,1723.3958333333333
+Coliform count,Vacuum,Ambient,quadratic_through_anchors,11.5,1949.1666666666658,1937.6666666666658
+Coliform count,Vacuum,Refrigerated,linear_interpolation_existing,0.0,406.25,406.25
+Coliform count,Vacuum,Refrigerated,day30_carry_forward,0.0,812.5,812.5
+Coliform count,Vacuum,Refrigerated,pchip_shape_preserving,0.0,671.7708333333334,671.7708333333334
+Coliform count,Vacuum,Refrigerated,quadratic_through_anchors,0.0,734.1666666666663,734.1666666666663
+Mesophilic bacteria,LDPE,Ambient,linear_interpolation_existing,1087.5,2470.0,1382.5
+Mesophilic bacteria,LDPE,Ambient,day30_carry_forward,1087.5,4900.0,3812.5
+Mesophilic bacteria,LDPE,Ambient,pchip_shape_preserving,1087.5,4240.416666666666,3152.916666666666
+Mesophilic bacteria,LDPE,Ambient,quadratic_through_anchors,1087.5,4795.833333333337,3708.3333333333367
+Mesophilic bacteria,LDPE,Refrigerated,linear_interpolation_existing,581.5,2027.25,1445.75
+Mesophilic bacteria,LDPE,Refrigerated,day30_carry_forward,581.5,3862.5,3281.0
+Mesophilic bacteria,LDPE,Refrigerated,pchip_shape_preserving,581.5,3376.9375,2795.4375
+Mesophilic bacteria,LDPE,Refrigerated,quadratic_through_anchors,581.5,3809.0000000000036,3227.5000000000036
+Mesophilic bacteria,Paper,Ambient,linear_interpolation_existing,1840.0,7580.0,5740.0
+Mesophilic bacteria,Paper,Ambient,day30_carry_forward,1840.0,7050.0,5210.0
+Mesophilic bacteria,Paper,Ambient,pchip_shape_preserving,1840.0,7851.289699388587,6011.289699388587
+Mesophilic bacteria,Paper,Ambient,quadratic_through_anchors,1840.0,9635.833333333336,7795.833333333336
+Mesophilic bacteria,Paper,Refrigerated,linear_interpolation_existing,993.5,2224.5,1231.0
+Mesophilic bacteria,Paper,Refrigerated,day30_carry_forward,993.5,4074.0,3080.5
+Mesophilic bacteria,Paper,Refrigerated,pchip_shape_preserving,993.5,3611.625,2618.125
+Mesophilic bacteria,Paper,Refrigerated,quadratic_through_anchors,993.5,4081.5,3088.0
+Mesophilic bacteria,Vacuum,Ambient,linear_interpolation_existing,130.0,673.0,543.0
+Mesophilic bacteria,Vacuum,Ambient,day30_carry_forward,130.0,1320.0,1190.0
+Mesophilic bacteria,Vacuum,Ambient,pchip_shape_preserving,130.0,1103.8333333333333,973.8333333333333
+Mesophilic bacteria,Vacuum,Ambient,quadratic_through_anchors,130.0,1211.1666666666672,1081.1666666666672
+Mesophilic bacteria,Vacuum,Refrigerated,linear_interpolation_existing,195.0,603.5,408.5
+Mesophilic bacteria,Vacuum,Refrigerated,day30_carry_forward,195.0,1129.0,934.0
+Mesophilic bacteria,Vacuum,Refrigerated,pchip_shape_preserving,195.0,951.875,756.875
+Mesophilic bacteria,Vacuum,Refrigerated,quadratic_through_anchors,195.0,1037.5000000000014,842.5000000000014
+Mould,LDPE,Ambient,linear_interpolation_existing,15.0,120.0,105.0
+Mould,LDPE,Ambient,day30_carry_forward,15.0,215.0,200.0
+Mould,LDPE,Ambient,pchip_shape_preserving,15.0,156.59090909090912,141.59090909090912
+Mould,LDPE,Ambient,quadratic_through_anchors,15.0,150.00000000000003,135.00000000000003
+Mould,LDPE,Refrigerated,linear_interpolation_existing,41.0,42.5,1.5
+Mould,LDPE,Refrigerated,day30_carry_forward,41.0,85.0,44.0
+Mould,LDPE,Refrigerated,pchip_shape_preserving,41.0,25.344684385382052,15.655315614617948
+Mould,LDPE,Refrigerated,quadratic_through_anchors,41.0,11.666666666666714,29.333333333333286
+Mould,Paper,Ambient,linear_interpolation_existing,35.0,50.0,15.0
+Mould,Paper,Ambient,day30_carry_forward,35.0,70.0,35.0
+Mould,Paper,Ambient,pchip_shape_preserving,35.0,40.357142857142854,5.357142857142854
+Mould,Paper,Ambient,quadratic_through_anchors,35.0,6.666666666666629,28.33333333333337
+Mould,Paper,Refrigerated,linear_interpolation_existing,60.0,132.5,72.5
+Mould,Paper,Refrigerated,day30_carry_forward,60.0,105.0,45.0
+Mould,Paper,Refrigerated,pchip_shape_preserving,60.0,111.875,51.875
+Mould,Paper,Refrigerated,quadratic_through_anchors,60.0,84.99999999999997,24.99999999999997
+Mould,Vacuum,Ambient,linear_interpolation_existing,10.0,82.5,72.5
+Mould,Vacuum,Ambient,day30_carry_forward,10.0,135.0,125.0
+Mould,Vacuum,Ambient,pchip_shape_preserving,10.0,73.54339557399723,63.54339557399723
+Mould,Vacuum,Ambient,quadratic_through_anchors,10.0,71.66666666666669,61.666666666666686
+Mould,Vacuum,Refrigerated,linear_interpolation_existing,0.0,18.0,18.0
+Mould,Vacuum,Refrigerated,day30_carry_forward,0.0,36.0,36.0
+Mould,Vacuum,Refrigerated,pchip_shape_preserving,0.0,8.978208232445521,8.978208232445521
+Mould,Vacuum,Refrigerated,quadratic_through_anchors,0.0,-37.3333333333334,37.3333333333334
+Peroxide value,LDPE,Ambient,linear_interpolation_existing,10.485,21.61,11.125
+Peroxide value,LDPE,Ambient,day30_carry_forward,10.485,0.88,9.604999999999999
+Peroxide value,LDPE,Ambient,pchip_shape_preserving,10.485,13.502160041678332,3.0171600416783324
+Peroxide value,LDPE,Ambient,quadratic_through_anchors,10.485,14.993333333333336,4.508333333333336
+Peroxide value,LDPE,Refrigerated,linear_interpolation_existing,8.99,10.74,1.75
+Peroxide value,LDPE,Refrigerated,day30_carry_forward,8.99,0.8,8.19
+Peroxide value,LDPE,Refrigerated,pchip_shape_preserving,8.99,7.069889729048519,1.920110270951481
+Peroxide value,LDPE,Refrigerated,quadratic_through_anchors,8.99,7.693333333333333,1.2966666666666669
+Peroxide value,Paper,Ambient,linear_interpolation_existing,1.745,1.5374999999999999,0.20750000000000024
+Peroxide value,Paper,Ambient,day30_carry_forward,1.745,0.69,1.0550000000000002
+Peroxide value,Paper,Ambient,pchip_shape_preserving,1.745,1.487405546623794,0.257594453376206
+Peroxide value,Paper,Ambient,quadratic_through_anchors,1.745,1.4849999999999994,0.2600000000000007
+Peroxide value,Paper,Refrigerated,linear_interpolation_existing,1.58,1.37,0.20999999999999996
+Peroxide value,Paper,Refrigerated,day30_carry_forward,1.58,0.75,0.8300000000000001
+Peroxide value,Paper,Refrigerated,pchip_shape_preserving,1.58,1.4081830601092897,0.17181693989071034
+Peroxide value,Paper,Refrigerated,quadratic_through_anchors,1.58,1.4133333333333333,0.16666666666666674
+Peroxide value,Vacuum,Ambient,linear_interpolation_existing,1.895,4.125,2.23
+Peroxide value,Vacuum,Ambient,day30_carry_forward,1.895,0.8,1.095
+Peroxide value,Vacuum,Ambient,pchip_shape_preserving,1.895,3.1748082177385464,1.2798082177385464
+Peroxide value,Vacuum,Ambient,quadratic_through_anchors,1.895,3.2833333333333337,1.3883333333333336
+Peroxide value,Vacuum,Refrigerated,linear_interpolation_existing,1.2149999999999999,1.2599999999999998,0.04499999999999993
+Peroxide value,Vacuum,Refrigerated,day30_carry_forward,1.2149999999999999,0.72,0.4949999999999999
+Peroxide value,Vacuum,Refrigerated,pchip_shape_preserving,1.2149999999999999,1.311774193548387,0.09677419354838723
+Peroxide value,Vacuum,Refrigerated,quadratic_through_anchors,1.2149999999999999,1.3200000000000005,0.10500000000000065
+Water activity,LDPE,Ambient,linear_interpolation_existing,0.862,0.8614999999999999,0.000500000000000056
+Water activity,LDPE,Ambient,day30_carry_forward,0.862,0.868,0.006000000000000005
+Water activity,LDPE,Ambient,pchip_shape_preserving,0.862,0.8621551155115511,0.00015511551155111825
+Water activity,LDPE,Ambient,quadratic_through_anchors,0.862,0.8621666666666664,0.00016666666666642627
+Water activity,LDPE,Refrigerated,linear_interpolation_existing,0.845,0.841,0.0040000000000000036
+Water activity,LDPE,Refrigerated,day30_carry_forward,0.845,0.852,0.007000000000000006
+Water activity,LDPE,Refrigerated,pchip_shape_preserving,0.845,0.838463199513382,0.006536800486617977
+Water activity,LDPE,Refrigerated,quadratic_through_anchors,0.845,0.8378333333333333,0.0071666666666666545
+Water activity,Paper,Ambient,linear_interpolation_existing,0.853,0.8540000000000001,0.001000000000000112
+Water activity,Paper,Ambient,day30_carry_forward,0.853,0.862,0.009000000000000008
+Water activity,Paper,Ambient,pchip_shape_preserving,0.853,0.8532784552845528,0.0002784552845528365
+Water activity,Paper,Ambient,quadratic_through_anchors,0.853,0.8531666666666667,0.00016666666666675933
+Water activity,Paper,Refrigerated,linear_interpolation_existing,0.831,0.8335,0.0025000000000000577
+Water activity,Paper,Refrigerated,day30_carry_forward,0.831,0.841,0.010000000000000009
+Water activity,Paper,Refrigerated,pchip_shape_preserving,0.831,0.8302488532110093,0.0007511467889906864
+Water activity,Paper,Refrigerated,quadratic_through_anchors,0.831,0.8255,0.005499999999999949
+Water activity,Vacuum,Ambient,linear_interpolation_existing,0.868,0.8685,0.000500000000000056
+Water activity,Vacuum,Ambient,day30_carry_forward,0.868,0.874,0.006000000000000005
+Water activity,Vacuum,Ambient,pchip_shape_preserving,0.868,0.8710416666666667,0.0030416666666667203
+Water activity,Vacuum,Ambient,quadratic_through_anchors,0.868,0.8708333333333333,0.0028333333333333544
+Water activity,Vacuum,Refrigerated,linear_interpolation_existing,0.859,0.856,0.0030000000000000027
+Water activity,Vacuum,Refrigerated,day30_carry_forward,0.859,0.867,0.008000000000000007
+Water activity,Vacuum,Refrigerated,pchip_shape_preserving,0.859,0.8578988095238095,0.0011011904761905056
+Water activity,Vacuum,Refrigerated,quadratic_through_anchors,0.859,0.8578333333333332,0.0011666666666667602
+Yeast,LDPE,Ambient,linear_interpolation_existing,0.0,127.5,127.5
+Yeast,LDPE,Ambient,day30_carry_forward,0.0,255.0,255.0
+Yeast,LDPE,Ambient,pchip_shape_preserving,0.0,116.64378612716763,116.64378612716763
+Yeast,LDPE,Ambient,quadratic_through_anchors,0.0,115.00000000000017,115.00000000000017
+Yeast,LDPE,Refrigerated,linear_interpolation_existing,0.0,50.0,50.0
+Yeast,LDPE,Refrigerated,day30_carry_forward,0.0,100.0,100.0
+Yeast,LDPE,Refrigerated,pchip_shape_preserving,0.0,26.47058823529412,26.47058823529412
+Yeast,LDPE,Refrigerated,quadratic_through_anchors,0.0,-40.000000000000114,40.000000000000114
+Yeast,Paper,Ambient,linear_interpolation_existing,1005.0,1895.0,890.0
+Yeast,Paper,Ambient,day30_carry_forward,1005.0,790.0,215.0
+Yeast,Paper,Ambient,pchip_shape_preserving,1005.0,1627.5722698072807,622.5722698072807
+Yeast,Paper,Ambient,quadratic_through_anchors,1005.0,1649.9999999999995,644.9999999999995
+Yeast,Paper,Refrigerated,linear_interpolation_existing,550.0,600.0,50.0
+Yeast,Paper,Refrigerated,day30_carry_forward,550.0,200.0,350.0
+Yeast,Paper,Refrigerated,pchip_shape_preserving,550.0,396.6666666666667,153.33333333333331
+Yeast,Paper,Refrigerated,quadratic_through_anchors,550.0,393.33333333333337,156.66666666666663
+Yeast,Vacuum,Ambient,linear_interpolation_existing,80.0,190.0,110.0
+Yeast,Vacuum,Ambient,day30_carry_forward,80.0,380.0,300.0
+Yeast,Vacuum,Ambient,pchip_shape_preserving,80.0,247.09459459459458,167.09459459459458
+Yeast,Vacuum,Ambient,quadratic_through_anchors,80.0,240.0000000000001,160.0000000000001
+Yeast,Vacuum,Refrigerated,linear_interpolation_existing,0.0,25.0,25.0
+Yeast,Vacuum,Refrigerated,day30_carry_forward,0.0,50.0,50.0
+Yeast,Vacuum,Refrigerated,pchip_shape_preserving,0.0,12.032710280373829,12.032710280373829
+Yeast,Vacuum,Refrigerated,quadratic_through_anchors,0.0,-89.99999999999994,89.99999999999994
+pH,LDPE,Ambient,linear_interpolation_existing,6.12,6.04,0.08000000000000007
+pH,LDPE,Ambient,day30_carry_forward,6.12,5.68,0.4400000000000004
+pH,LDPE,Ambient,pchip_shape_preserving,6.12,6.074516129032258,0.04548387096774231
+pH,LDPE,Ambient,quadratic_through_anchors,6.12,6.079999999999999,0.040000000000000924
+pH,LDPE,Refrigerated,linear_interpolation_existing,5.71,5.705,0.004999999999999893
+pH,LDPE,Refrigerated,day30_carry_forward,5.71,5.41,0.2999999999999998
+pH,LDPE,Refrigerated,pchip_shape_preserving,5.71,5.677293916486682,0.03270608351331816
+pH,LDPE,Refrigerated,quadratic_through_anchors,5.71,5.676666666666668,0.03333333333333233
+pH,Paper,Ambient,linear_interpolation_existing,6.42,6.505000000000001,0.08500000000000085
+pH,Paper,Ambient,day30_carry_forward,6.42,6.12,0.2999999999999998
+pH,Paper,Ambient,pchip_shape_preserving,6.42,6.640102215283973,0.22010221528397267
+pH,Paper,Ambient,quadratic_through_anchors,6.42,6.683333333333337,0.2633333333333372
+pH,Paper,Refrigerated,linear_interpolation_existing,5.96,5.92,0.040000000000000036
+pH,Paper,Refrigerated,day30_carry_forward,5.96,5.61,0.34999999999999964
+pH,Paper,Refrigerated,pchip_shape_preserving,5.96,5.948814002089865,0.011185997910135193
+pH,Paper,Refrigerated,quadratic_through_anchors,5.96,5.953333333333334,0.0066666666666659324
+pH,Vacuum,Ambient,linear_interpolation_existing,5.71,5.77,0.05999999999999961
+pH,Vacuum,Ambient,day30_carry_forward,5.71,5.41,0.2999999999999998
+pH,Vacuum,Ambient,pchip_shape_preserving,5.71,5.7194318181818184,0.009431818181818485
+pH,Vacuum,Ambient,quadratic_through_anchors,5.71,5.719999999999999,0.009999999999998899
+pH,Vacuum,Refrigerated,linear_interpolation_existing,5.41,5.47,0.05999999999999961
+pH,Vacuum,Refrigerated,day30_carry_forward,5.41,5.33,0.08000000000000007
+pH,Vacuum,Refrigerated,pchip_shape_preserving,5.41,5.466898907103825,0.05689890710382528
+pH,Vacuum,Refrigerated,quadratic_through_anchors,5.41,5.466666666666667,0.05666666666666664

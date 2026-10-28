@@ -1,0 +1,9 @@
+{
+  "slides": 12,
+  "pptx": "Fisheries_Cold_Chain_Project.pptx",
+  "speaker_notes_on_every_slide": true,
+  "all_shapes_within_slide": true,
+  "results_source": "results/integration/scenario_comparison.parquet",
+  "road_added_degree_hours_above_2c": 55.802521693156166,
+  "style": "16:9, Segoe UI, warm white, dark ink, muted teal"
+}

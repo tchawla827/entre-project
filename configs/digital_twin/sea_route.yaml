@@ -1,0 +1,20 @@
+extends: experiment.yaml
+route_id: kochi_sea_to_eu_chilled_finfish_hypothetical
+context: MPEDA FY2025-26 chilled-items, EU-market and Cochin SEZ cargo separate marginals; hypothetical 14-day sea transit, no direct seaport shipment evidence, shipment cross-tab or shelf-life evidence
+stage_rename:
+  airport: seaport
+  flight: vessel
+scenario_rename:
+  airport_delay_door: seaport_delay_door
+  flight_excursion: vessel_excursion
+stage_overrides:
+  seaport: {name: Indian seaport handling, mode: seaport, duration_h: 10, setpoint_c: 2.5, ambient_c: 30, rationale: illustrative port transfer; no event log}
+  vessel: {name: International refrigerated sea transport, mode: sea, duration_h: 336, setpoint_c: 1.5, ambient_c: 25, rationale: hypothetical fourteen-day voyage; no observed route or biological viability claim}
+scenario_overrides:
+  vessel_excursion:
+    changes: [{stage: vessel, events: [{kind: setpoint_offset, start_h: 120, duration_h: 8, delta_c: 5}]}]
+  combined:
+    changes:
+      - {stage: road, events: [{kind: refrigeration_off, start_h: 1, duration_h: 2}]}
+      - {stage: seaport, duration_delta_h: 3, events: [{kind: door_open, start_h: 2, duration_h: 0.75}]}
+      - {stage: vessel, events: [{kind: setpoint_offset, start_h: 120, duration_h: 8, delta_c: 5}]}

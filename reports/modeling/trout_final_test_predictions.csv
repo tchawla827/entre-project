@@ -1,0 +1,4 @@
+outcome_id,microbiology_sample_id,storage_age_days,tvc_log10_cfu_g,predicted,error
+trout_tvc:F1F17,F1F17,6,7.881,7.574215384615386,-0.3067846153846139
+trout_tvc:F1F18,F1F18,6,7.968,7.574215384615386,-0.3937846153846136
+trout_tvc:F4F19,F4F19,6,7.724,7.574215384615386,-0.14978461538461385

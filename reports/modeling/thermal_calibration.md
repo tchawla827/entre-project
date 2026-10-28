@@ -1,0 +1,13 @@
+# Thermal calibration status
+
+**Fresh/chilled fish variable-temperature deterioration: BLOCKED.** No available dataset pairs fresh-fish quality outcomes with product-temperature histories at multiple treatment levels and documented biological/batch IDs. Trout TVC was measured at only one nominal 4 °C storage protocol. DaFiF has no product temperature. Citrus reefer and cold-room records can later exercise numerical integration but provide no fish-quality labels.
+
+**Smoked catfish: conditional categorical interpolation only.** For each package (p) and reported condition (c), save observed peroxide cell means at days 0, 30, 60 and 90. Within adjacent days (t_i,t_{i+1}), the estimate is
+
+\[\hat q_{p,c}(t)=\bar q_{p,c}(t_i)+\frac{t-t_i}{t_{i+1}-t_i}[\bar q_{p,c}(t_{i+1})-\bar q_{p,c}(t_i)].\]
+
+The day-zero value is a shared measured baseline; no independent-treatment inference uses it. `predict_smoked_catfish_peroxide` rejects unobserved packaging, conditions and ages outside 0–90 days. Units are source-reported peroxide units and need laboratory-method confirmation before physical interpretation. The two temperature bands cannot be converted into a continuous °C response or used to integrate changing shipment temperatures. The maximum within-study day-60 interpolation error occurs for LDPE ambient, where strong late curvature defeats linear interpolation. The artifact stores all measured means; there is no extrapolation or spoilage-probability conversion.
+
+The reserved `predict_quality_trajectory(species, product_state, initial_quality, timestamps, temperature_c, endpoint)` contract rejects all requests until fish-specific, replicate-level multi-temperature observations support a rate model and independent experiments validate non-isothermal use. Required observations include exact product-core/surface temperatures, timestamps, scientific species, product state, package, processing/batch and biological IDs, baseline and subsequent quality endpoints with units and assay methods, independent batches across temperatures, and held-out dynamic-temperature trials. Ambient and container air cannot silently substitute for product temperature. No numerical integration of an uncalibrated rate is exposed as empirical prediction.
+
+The same categorical cell-mean representation is saved for all seven measured smoked-catfish outcomes: mesophilic bacteria, coliforms, yeast, mould, water activity, peroxide value and pH. Their treatment-cell interpolation checks are in `smoked_catfish_all_endpoint_metrics.csv`. Interpolation is not uniformly better than carrying the day-30 value forward; these curves are descriptive and lack independent-run validation.

@@ -1,0 +1,7 @@
+# Label policy
+
+DaFiF [Table 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11528684/) was scored on other fish than those used for gas readings. The 774 criterion scores represent 129 species/day/session assessments, not 27120 independent targets. No row-level label is assigned to sensor observations. Score 0 appears once in the source despite the described SNI 1–9 scale; it is retained and flagged for source clarification. The biological replicate and individual fish IDs are unavailable. No spoiled/fresh threshold is imposed, and `model_ready_freshness` is deliberately absent.
+
+The [rainbow trout record](https://zenodo.org/records/23600663) has 21 individually measured TVC outcomes on a destructive subset and 25,200 sensor observations from 59 other fillets. Its sensor CSVs embed a repeated daily mean TVC and day-level Fresh/Spoiled flag; those are ecological proxies, **not** individual sensor-fillet quality measurements. The source explicitly states no one-to-one pairing. Chamber temperature is measured during gas sensing; the nominal 4 °C storage protocol is not a fish-product temperature trace. Fillet IDs are longitudinal, but the original-fish grouping inferred from filename pattern needs author confirmation.
+
+The smoked catfish measurements have laboratory outcomes but belong to a different product process. Day-zero values are shared baselines; `is_inferential_postbaseline` is false. Temperature treatments are ranges, not per-package readings.

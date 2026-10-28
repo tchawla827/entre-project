@@ -1,0 +1,43 @@
+schema_version: 1
+status: proposed_field_protocol_not_observed_data
+entities:
+  shipment:
+    primary_key: shipment_id
+    required: [shipment_id, exporter_id, route_id, product_state, departure_utc, arrival_utc]
+  lot:
+    primary_key: lot_id
+    foreign_keys: {shipment_id: shipment.shipment_id}
+    required: [lot_id, shipment_id, scientific_species, harvest_utc, processing_utc, packaging, ice_state]
+  specimen:
+    primary_key: specimen_id
+    foreign_keys: {lot_id: lot.lot_id}
+    required: [specimen_id, lot_id, specimen_role]
+  logger:
+    primary_key: logger_id
+    foreign_keys: {shipment_id: shipment.shipment_id, lot_id: lot.lot_id}
+    required: [logger_id, shipment_id, placement, calibration_id, unit, sample_interval_s, timezone]
+  temperature_sample:
+    primary_key: [logger_id, timestamp_utc]
+    foreign_keys: {logger_id: logger.logger_id}
+    required: [logger_id, timestamp_utc, temperature_c, measurement_channel, quality_flag]
+    measurement_channel_enum: [measured_air, measured_product_core, measured_product_surface]
+  stage:
+    primary_key: [shipment_id, stage_id]
+    foreign_keys: {shipment_id: shipment.shipment_id}
+    required: [shipment_id, stage_id, start_utc, end_utc, mode, location_class, setpoint_c]
+  event:
+    primary_key: event_id
+    foreign_keys: {shipment_id: shipment.shipment_id, stage_id: stage.stage_id}
+    required: [event_id, shipment_id, stage_id, start_utc, end_utc, event_kind, observed_or_reported]
+  assay:
+    primary_key: assay_id
+    foreign_keys: {specimen_id: specimen.specimen_id, lot_id: lot.lot_id}
+    required: [assay_id, specimen_id, lot_id, sampled_utc, endpoint, value, unit, method, lab_id, replicate_id, detection_limit]
+  consent_provenance:
+    primary_key: data_agreement_id
+    required: [data_agreement_id, shipment_id, allowed_use, redistribution, retention, version]
+checks:
+  - No assay-to-logger join without documented specimen/lot and logger placement relationship.
+  - Repeated logger samples are clustered within shipment/lot, never independent fish outcomes.
+  - Preserve initial and arrival assays and censoring/missingness reasons.
+  - Reserve exporters/routes or later shipments for independent testing before model selection.

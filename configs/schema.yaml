@@ -1,0 +1,37 @@
+tables:
+  fish_sensor_observations:
+    primary_key: observation_id
+    grain: official DaFiF workbook row
+    required: [recording_group_id, species_common, storage_age_days, mq135_raw, tgs2602_raw, source_file_id, source_row]
+  freshness_observed_labels:
+    primary_key: assessment_id
+    grain: Table 3 species x day x session x criterion
+    required: [sensory_score, criterion, source_table_row, link_to_sensor]
+  trout_sensor_observations:
+    primary_key: observation_id
+    grain: fillet x storage day x 1-second sensor reading
+    required: [fillet_id, storage_day_one_based, mq135_adc, measurement_chamber_temperature_c, embedded_day_label_proxy]
+  trout_microbiology_outcomes:
+    primary_key: outcome_id
+    grain: separate destructively assessed fillet
+    required: [microbiology_sample_id, storage_day_one_based, tvc_cfu_g, tvc_log10_cfu_g, link_to_sensor]
+  fish_temperature_quality_experiments:
+    primary_key: observation_id
+    grain: smoked-catfish package treatment x time x outcome x reported replicate
+    required: [storage_condition, temperature_min_c, temperature_max_c, quality_outcome, outcome_value]
+  mpeda_export_statistics:
+    primary_key: statistic_id
+    grain: one of three separate marginal dimensions x financial year x measure
+    required: [dimension_type, dimension_source, financial_year, measure_unit, value]
+  shipment_temperature_events:
+    status: blocked_no_observed_rows
+    required: [shipment_id, lot_id, stage, timestamp_utc, sensor_position, product_temperature_c]
+  independent_shipment_outcomes:
+    status: blocked_no_observed_rows
+    required: [shipment_id, lot_id, assessment_time_utc, quality_measure, quality_value, unit, method]
+  model_ready_freshness:
+    status: blocked_no_specimen_matched_labels
+    required: [specimen_id, features, measured_target, source_group, split]
+  model_ready_thermal:
+    status: blocked_no_fresh_finfish_multi_temperature_outcomes
+    required: [lot_id, species, product_state, temperature_c, elapsed_hours, measured_quality, quality_unit]

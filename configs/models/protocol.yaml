@@ -1,0 +1,24 @@
+seed: 47
+trout:
+  target: tvc_log10_cfu_g
+  predictor: storage_age_days
+  nominal_storage_c: 4
+  final_temporal_day: 6
+  candidate_fish_id_from_filename: unverified_conservative_embargo
+  simplicity_mae_margin_log10: 0.05
+  candidates:
+    - mean
+    - linear
+    - quadratic_ridge_0.1
+    - quadratic_ridge_1
+    - quadratic_ridge_10
+catfish:
+  product_state: smoked
+  treatment_conditions_c:
+    Refrigerated: [4, 5]
+    Ambient: [25, 30]
+  interpolation_check_held_out_day: 60
+  interpolation_anchor_days: [30, 90]
+dafif:
+  unit: official_workbook
+  k_candidates: [2, 3, 4, 5]

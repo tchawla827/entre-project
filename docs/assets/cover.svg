@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="A hypothetical fish export journey from landing through processing, storage, road, airport, flight and arrival; thermal exposure is simulated and spoilage is not calibrated">
+  <rect width="1200" height="300" rx="20" fill="#172f36"/>
+  <text x="46" y="53" fill="#8bcfd0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">A HYPOTHETICAL EXPORT JOURNEY</text>
+  <path d="M92 142 H1108" stroke="#72bcbf" stroke-width="3" fill="none"/>
+  <g fill="#72bcbf" stroke="#172f36" stroke-width="5">
+    <circle cx="92" cy="142" r="12"/><circle cx="261" cy="142" r="12"/><circle cx="430" cy="142" r="12"/><circle cx="599" cy="142" r="12"/><circle cx="768" cy="142" r="12"/><circle cx="937" cy="142" r="12"/><circle cx="1108" cy="142" r="12"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#ecf5f3" text-anchor="middle">
+    <text x="92" y="190">Landing</text><text x="261" y="190">Processing</text><text x="430" y="190">Storage</text><text x="599" y="190">Road</text><text x="768" y="190">Airport</text><text x="937" y="190">Flight</text><text x="1108" y="190">Arrival</text>
+  </g>
+  <text x="46" y="270" fill="#b6ceca" font-family="Segoe UI,Arial,sans-serif" font-size="17">Simulated temperature exposure at each stage</text>
+  <text x="1154" y="270" fill="#b6ceca" font-family="Segoe UI,Arial,sans-serif" font-size="17" text-anchor="end">Fish spoilage: not calibrated</text>
+</svg>

@@ -1,0 +1,50 @@
+{
+  "proxy_citrus": {
+    "kind": "citrus",
+    "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+    "source_channel": "source package-position temperature C; not fish or air",
+    "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+    "offset_to_synthetic_setpoint": true,
+    "stage_local_cycle": false,
+    "route_clock_cycle": true,
+    "source_timezone": "unknown_or_not_applicable_relative_time",
+    "source_window_c": [
+      1.711158162771066,
+      2.720591559301237
+    ],
+    "residual_quantiles_c": [
+      -0.24525983709657195,
+      -0.1418065107334364,
+      -0.004817382039238094,
+      0.14835427922985522,
+      0.30624436154390056
+    ],
+    "spacing_h": 0.5,
+    "period_h": 384.5,
+    "warning": "citrus_package_position_not_container_air_or_fish_core"
+  },
+  "proxy_coldroom": {
+    "kind": "coldroom",
+    "source": "zenodo_15130001:SENSOR02:after_120h",
+    "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+    "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+    "offset_to_synthetic_setpoint": true,
+    "stage_local_cycle": false,
+    "route_clock_cycle": true,
+    "source_timezone": "unknown_or_not_applicable_relative_time",
+    "source_window_c": [
+      6.2,
+      7.3
+    ],
+    "residual_quantiles_c": [
+      -0.39999999999999947,
+      -0.2999999999999998,
+      0.0,
+      0.40000000000000036,
+      0.7000000000000002
+    ],
+    "spacing_h": 0.25,
+    "period_h": 24.0,
+    "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+  }
+}

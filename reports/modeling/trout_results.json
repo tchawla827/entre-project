@@ -1,0 +1,46 @@
+{
+  "selected": "linear",
+  "cv": {
+    "mae": 0.5387176308341838,
+    "rmse": 0.7268263564545471,
+    "bias": 0.025065661972742542
+  },
+  "revised_holdout_posthoc": {
+    "mae": 0.28345128205128045,
+    "rmse": 0.3008978534077693,
+    "bias": -0.28345128205128045
+  },
+  "revised_holdout_mean_baseline": {
+    "mae": 2.3930784313725484,
+    "rmse": 2.3952075625275957,
+    "bias": -2.3930784313725484
+  },
+  "untouched_final_test": "UNAVAILABLE: initial protocol invalidated after first test inspection",
+  "n_development_fish": 17,
+  "n_development_candidate_original_fish": 14,
+  "n_development_day_groups": 6,
+  "n_test_fish": 3,
+  "n_test_day_groups": 1,
+  "n_test_candidate_original_fish": 3,
+  "n_embargoed_assays": 1,
+  "cv_absolute_error_90pct": 1.3447711764705887,
+  "test_empirical_coverage": 1.0,
+  "group_bootstrap": {
+    "linear_cv_mae_95pct_day_bootstrap": [
+      0.23330045501594723,
+      0.9356423922896692
+    ],
+    "mean_baseline_cv_mae_95pct_day_bootstrap": [
+      0.42488939763939765,
+      1.7458932844932846
+    ],
+    "baseline_minus_linear_mae_95pct_day_bootstrap": [
+      -0.267408605666122,
+      1.1505454725143722
+    ],
+    "n_resampled_day_groups": 6,
+    "n_bootstrap_draws": 10000,
+    "warning": "Single study and six cohorts; percentile intervals are unstable and not deployment uncertainty."
+  },
+  "external_validation": "BLOCKED"
+}

@@ -1,0 +1,17 @@
+# Phase 2 modeling readiness and target audit
+
+The Phase 1 handoff, scientific sufficiency and quality reports, data dictionary, blocked requests, registry, join/label policies, schemas and curated Parquet files were read before fitting. The executable audit is `python -m src.models.cli audit`; counts are in `audit.json`.
+
+| Task | Actual observed target and independent units | Temperature and join fidelity | Decision |
+|---|---|---|---|
+| DaFiF sensor freshness classifier | 27,120 gas readings in 63 workbooks; 774 sensory criterion scores in 129 assessment groups, assessed on other fish. Fish IDs absent. | Ice-storage protocol, no product temperatures; no specimen join. | **BLOCKED** for measured-label supervised classification. |
+| Trout sensor freshness classifier | 25,200 readings in 210 sessions on 59 longitudinal fillets; 21 TVC assays on other fillets. The embedded CSV class/TVC is a day-level repeated proxy. | Nominal 4 °C storage; chamber temperature is measurement environment. No assayed fillet is directly paired to a sensor record. | **BLOCKED** for measured-label sensor classification. |
+| Trout expected TVC versus storage day | 21 individually assayed fillets over seven day cohorts; filename pattern suggests at most 17 original fish, unconfirmed. | One study, one nominal 4 °C treatment; no product logger. | **CONDITIONALLY READY**, internally evaluated study-specific regression only. |
+| Smoked-catfish peroxide versus categorical treatment | 48 peroxide observations: 12 shared day-zero values and 36 postbaseline package-level observations in six package × storage-condition arms, two replicates/cell. Processing-run IDs unavailable. | Published ranges 4–5 °C and 25–30 °C, no per-package temperatures. Product is smoked *Clarias gariepinus*. | **CONDITIONALLY READY** for descriptive cell-mean interpolation; numeric thermal kinetics and fresh-fish transfer **BLOCKED**. |
+| Fresh finfish temperature-dependent deterioration | No paired fresh-fish temperature × measured-quality trajectories across multiple temperatures. | DaFiF has no product temperatures; trout has one nominal treatment. | **BLOCKED**. |
+| Scenario risk inference | Non-fish proxy traces and India aggregate trade/context only. | No calibrated fresh-fish exposure-to-quality mapping. | **CONDITIONALLY READY** as future assumption-driven simulation, without observed spoilage probability. |
+| Independent Indian shipment validation | Zero paired logger/outcome shipments. | No shipment/lot ID, endpoint, or stage history joins. | **BLOCKED**. |
+
+The paper's DaFiF Table 1 states 9,041 rows/species (27,123 total); the 63 official workbooks contain 9,020 Mackerel, 9,029 Tilapia and 9,071 Tuna (27,120 total). The net three-row discrepancy masks species-level redistribution. No synthetic balancing rows were added. Local `combined_dataset.csv` has 2,298 session-label disagreements with official folder metadata: 1,878 Day-1 rows and 420 rows from a Session-2-named Tongkol file in the Session-1 folder. The latter are flagged in the curated table. Neither local session labels nor original official metadata were silently overwritten. The score zero in DaFiF Table 3 remains flagged because its stated scale begins at one.
+
+Sensory freshness, microbial TVC, peroxide oxidation, safety, and regulatory compliance are distinct outcomes. No one is used as another's ground truth. MPEDA marginals, citrus reefer temperatures and generic cold-room traces have no measured fish outcome linkage.

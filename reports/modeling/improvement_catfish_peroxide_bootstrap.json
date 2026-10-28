@@ -1,0 +1,9 @@
+{
+  "linear_minus_pchip_mae_95pct": [
+    -0.07594672037777546,
+    4.195307168383644
+  ],
+  "pchip_wins_out_of_six_arms": 3,
+  "n_treatment_arms": 6,
+  "seed": 48
+}

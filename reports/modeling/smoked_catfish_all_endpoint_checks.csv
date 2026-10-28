@@ -1,0 +1,43 @@
+endpoint,package_type,storage_condition,observed_day60_cell_mean,interpolated,day30_carry_forward
+Coliform count,LDPE,Ambient,865.0,935.0,1870.0
+Coliform count,LDPE,Refrigerated,27.0,480.0,960.0
+Coliform count,Paper,Ambient,1055.0,5002.5,845.0
+Coliform count,Paper,Refrigerated,1155.0,2157.5,830.0
+Coliform count,Vacuum,Ambient,11.5,1013.7500000000001,2027.5
+Coliform count,Vacuum,Refrigerated,0.0,406.25,812.5
+Mesophilic bacteria,LDPE,Ambient,1087.5,2470.0,4900.0
+Mesophilic bacteria,LDPE,Refrigerated,581.5,2027.25,3862.5
+Mesophilic bacteria,Paper,Ambient,1840.0,7580.0,7050.0
+Mesophilic bacteria,Paper,Refrigerated,993.5,2224.5,4074.0
+Mesophilic bacteria,Vacuum,Ambient,130.0,673.0,1320.0
+Mesophilic bacteria,Vacuum,Refrigerated,195.0,603.5,1129.0
+Mould,LDPE,Ambient,15.0,120.0,215.0
+Mould,LDPE,Refrigerated,41.0,42.5,85.0
+Mould,Paper,Ambient,35.0,50.0,70.0
+Mould,Paper,Refrigerated,60.0,132.5,105.0
+Mould,Vacuum,Ambient,10.0,82.5,135.0
+Mould,Vacuum,Refrigerated,0.0,18.0,36.0
+Peroxide value,LDPE,Ambient,10.485,21.61,0.88
+Peroxide value,LDPE,Refrigerated,8.99,10.74,0.8
+Peroxide value,Paper,Ambient,1.745,1.5374999999999999,0.69
+Peroxide value,Paper,Refrigerated,1.58,1.37,0.75
+Peroxide value,Vacuum,Ambient,1.895,4.125,0.8
+Peroxide value,Vacuum,Refrigerated,1.2149999999999999,1.2599999999999998,0.72
+Water activity,LDPE,Ambient,0.862,0.8614999999999999,0.868
+Water activity,LDPE,Refrigerated,0.845,0.841,0.852
+Water activity,Paper,Ambient,0.853,0.8540000000000001,0.862
+Water activity,Paper,Refrigerated,0.831,0.8335,0.841
+Water activity,Vacuum,Ambient,0.868,0.8685,0.874
+Water activity,Vacuum,Refrigerated,0.859,0.856,0.867
+Yeast,LDPE,Ambient,0.0,127.5,255.0
+Yeast,LDPE,Refrigerated,0.0,50.0,100.0
+Yeast,Paper,Ambient,1005.0,1895.0,790.0
+Yeast,Paper,Refrigerated,550.0,600.0,200.0
+Yeast,Vacuum,Ambient,80.0,190.0,380.0
+Yeast,Vacuum,Refrigerated,0.0,25.0,50.0
+pH,LDPE,Ambient,6.12,6.04,5.68
+pH,LDPE,Refrigerated,5.71,5.705,5.41
+pH,Paper,Ambient,6.42,6.505000000000001,6.12
+pH,Paper,Refrigerated,5.96,5.92,5.61
+pH,Vacuum,Ambient,5.71,5.77,5.41
+pH,Vacuum,Refrigerated,5.41,5.47,5.33

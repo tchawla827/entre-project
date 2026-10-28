@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "run": {
+    "run_id": "3b739bad690e73c9",
+    "scenario": "baseline",
+    "scenario_changes": [],
+    "route_id": "kochi_air_to_eu_chilled_finfish_hypothetical",
+    "temperature_mode": "proxy_coldroom",
+    "step_minutes": 15,
+    "seed": 0
+  },
+  "route_metrics": {
+    "schema_version": 1,
+    "route_id": "kochi_air_to_eu_chilled_finfish_hypothetical",
+    "scenario": "baseline",
+    "run_id": "3b739bad690e73c9",
+    "product_state": "ice_stored_chilled_finfish",
+    "species_common_source_category": "Mackerel",
+    "temperature_mode": "proxy_coldroom",
+    "air": {
+      "channel": "air",
+      "duration_h": 47.0,
+      "peak_c": 3.63800487843201,
+      "mean_c": 2.0457046251939563,
+      "references": {
+        "2.0": {
+          "hours_above": 22.057727354034586,
+          "percent_time_above": 46.93133479581827,
+          "degree_hours": 15.873721399214892,
+          "max_continuous_excursion_h": 7.300897732220127
+        },
+        "4.0": {
+          "hours_above": 0.0,
+          "percent_time_above": 0.0,
+          "degree_hours": 0.0,
+          "max_continuous_excursion_h": 0.0
+        }
+      }
+    },
+    "estimated_product": {
+      "channel": "estimated_product",
+      "duration_h": 47.0,
+      "peak_c": 3.2768924054457926,
+      "mean_c": 1.9732865438450313,
+      "references": {
+        "2.0": {
+          "hours_above": 24.379764774393657,
+          "percent_time_above": 51.87183994551842,
+          "degree_hours": 12.234677769739742,
+          "max_continuous_excursion_h": 13.735558718429786
+        },
+        "4.0": {
+          "hours_above": 0.0,
+          "percent_time_above": 0.0,
+          "degree_hours": 0.0,
+          "max_continuous_excursion_h": 0.0
+        }
+      }
+    },
+    "simulator_parameters": {
+      "step_minutes": 15,
+      "air_tau_h": 0.75,
+      "illustrative_product_tau_h": 1.5,
+      "door_open_air_tau_h": "min(air_tau_h, 0.2), assumed",
+      "initial_air_c": 1.5,
+      "initial_estimated_product_c": 1.0,
+      "reference_c": [
+        2.0,
+        4.0
+      ],
+      "product_channel": "illustrative first-order estimate, not measured fish core"
+    },
+    "spoilage_probability_status": "NOT_CALIBRATED",
+    "quality_trajectory_status": "NOT_CALIBRATED"
+  },
+  "stages": [
+    {
+      "stage_id": "landing_icing",
+      "name": "Landing and icing",
+      "mode": "handling",
+      "start_utc": "2026-01-01T00:00:00+00:00",
+      "end_utc": "2026-01-01T03:00:00+00:00",
+      "duration_h": 3.0,
+      "setpoint_c": 1.5,
+      "ambient_assumed_c": 24.0,
+      "assumption_type": "illustrative",
+      "rationale": "near-ice chilled handling scenario",
+      "air": {
+        "channel": "air",
+        "duration_h": 3.0,
+        "peak_c": 1.6305956028846265,
+        "mean_c": 1.5841351860575525,
+        "references": {
+          "2.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": 0.0
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 3.0,
+        "peak_c": 1.5120108181735306,
+        "mean_c": 1.3277552688709153,
+        "references": {
+          "2.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": 0.0
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "processing",
+      "name": "Processing and packing",
+      "mode": "facility",
+      "start_utc": "2026-01-01T03:00:00+00:00",
+      "end_utc": "2026-01-01T08:00:00+00:00",
+      "duration_h": 5.0,
+      "setpoint_c": 3.0,
+      "ambient_assumed_c": 24.0,
+      "assumption_type": "illustrative",
+      "rationale": "bounded handling-room scenario",
+      "air": {
+        "channel": "air",
+        "duration_h": 5.0,
+        "peak_c": 3.0580640749486454,
+        "mean_c": 2.8425039992902064,
+        "references": {
+          "2.0": {
+            "hours_above": 4.749231212559883,
+            "percent_time_above": 94.98462425119764,
+            "degree_hours": 4.267335261111719,
+            "max_continuous_excursion_h": 4.749231212559883,
+            "fraction_of_route_degree_hours": 0.2688301724460642
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 5.0,
+        "peak_c": 2.8823897591598366,
+        "mean_c": 2.442118464490532,
+        "references": {
+          "2.0": {
+            "hours_above": 3.922156459341805,
+            "percent_time_above": 78.4431291868361,
+            "degree_hours": 2.523911178112306,
+            "max_continuous_excursion_h": 3.922156459341805,
+            "fraction_of_route_degree_hours": 0.20629159391142632
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "cold_storage",
+      "name": "Cold storage",
+      "mode": "storage",
+      "start_utc": "2026-01-01T08:00:00+00:00",
+      "end_utc": "2026-01-01T20:00:00+00:00",
+      "duration_h": 12.0,
+      "setpoint_c": 1.0,
+      "ambient_assumed_c": 24.0,
+      "assumption_type": "illustrative",
+      "rationale": "chilled holding scenario",
+      "air": {
+        "channel": "air",
+        "duration_h": 12.0,
+        "peak_c": 2.751862681490165,
+        "mean_c": 1.1019349981614168,
+        "references": {
+          "2.0": {
+            "hours_above": 0.3595629742225921,
+            "percent_time_above": 2.996358118521601,
+            "degree_hours": 0.124585933211115,
+            "max_continuous_excursion_h": 0.3595629742225921,
+            "fraction_of_route_degree_hours": 0.007848564938104367
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 12.0,
+        "peak_c": 2.8517671915203984,
+        "mean_c": 1.3428358450279092,
+        "references": {
+          "2.0": {
+            "hours_above": 1.5073835926387424,
+            "percent_time_above": 12.561529938656188,
+            "degree_hours": 0.714359850283338,
+            "max_continuous_excursion_h": 1.5073835926387424,
+            "fraction_of_route_degree_hours": 0.05838812134882519
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "road",
+      "name": "Refrigerated road transfer",
+      "mode": "road",
+      "start_utc": "2026-01-01T20:00:00+00:00",
+      "end_utc": "2026-01-02T01:00:00+00:00",
+      "duration_h": 5.0,
+      "setpoint_c": 2.0,
+      "ambient_assumed_c": 30.0,
+      "assumption_type": "illustrative",
+      "rationale": "hypothetical road transfer",
+      "air": {
+        "channel": "air",
+        "duration_h": 5.0,
+        "peak_c": 2.0793752293064895,
+        "mean_c": 1.790545937181608,
+        "references": {
+          "2.0": {
+            "hours_above": 1.014794702976747,
+            "percent_time_above": 20.295894059534938,
+            "degree_hours": 0.044777328741399725,
+            "max_continuous_excursion_h": 0.7619190472730132,
+            "fraction_of_route_degree_hours": 0.0028208463293058926
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 5.0,
+        "peak_c": 1.866935245488503,
+        "mean_c": 1.5070728323842828,
+        "references": {
+          "2.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": 0.0
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "airport",
+      "name": "Indian airport handling",
+      "mode": "terminal",
+      "start_utc": "2026-01-02T01:00:00+00:00",
+      "end_utc": "2026-01-02T07:00:00+00:00",
+      "duration_h": 6.0,
+      "setpoint_c": 3.0,
+      "ambient_assumed_c": 30.0,
+      "assumption_type": "illustrative",
+      "rationale": "hypothetical export handling",
+      "air": {
+        "channel": "air",
+        "duration_h": 6.0,
+        "peak_c": 3.2410853618190236,
+        "mean_c": 2.985556708486492,
+        "references": {
+          "2.0": {
+            "hours_above": 6.0,
+            "percent_time_above": 100.0,
+            "degree_hours": 5.913340250918953,
+            "max_continuous_excursion_h": 6.0,
+            "fraction_of_route_degree_hours": 0.37252387781049406
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 6.0,
+        "peak_c": 3.046365240306957,
+        "mean_c": 2.6933959474027844,
+        "references": {
+          "2.0": {
+            "hours_above": 5.513779881662716,
+            "percent_time_above": 91.89633136104527,
+            "degree_hours": 4.196288058249307,
+            "max_continuous_excursion_h": 5.513779881662716,
+            "fraction_of_route_degree_hours": 0.3429831285485969
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "flight",
+      "name": "International air transport",
+      "mode": "air",
+      "start_utc": "2026-01-02T07:00:00+00:00",
+      "end_utc": "2026-01-02T19:00:00+00:00",
+      "duration_h": 12.0,
+      "setpoint_c": 2.0,
+      "ambient_assumed_c": 22.0,
+      "assumption_type": "illustrative",
+      "rationale": "illustrative air transit duration; no route log",
+      "air": {
+        "channel": "air",
+        "duration_h": 12.0,
+        "peak_c": 2.980694561478848,
+        "mean_c": 2.0356464832076555,
+        "references": {
+          "2.0": {
+            "hours_above": 5.999939330123376,
+            "percent_time_above": 49.9994944176948,
+            "degree_hours": 0.8538248543469744,
+            "max_continuous_excursion_h": 2.604384477631063,
+            "fraction_of_route_degree_hours": 0.05378857502117961
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 12.0,
+        "peak_c": 3.0392654293242747,
+        "mean_c": 2.1721144261238945,
+        "references": {
+          "2.0": {
+            "hours_above": 9.782867247882976,
+            "percent_time_above": 81.52389373235813,
+            "degree_hours": 2.1122039410822366,
+            "max_continuous_excursion_h": 8.22177883676707,
+            "fraction_of_route_degree_hours": 0.17264074958364578
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    },
+    {
+      "stage_id": "destination",
+      "name": "EU arrival and inspection",
+      "mode": "terminal",
+      "start_utc": "2026-01-02T19:00:00+00:00",
+      "end_utc": "2026-01-02T23:00:00+00:00",
+      "duration_h": 4.0,
+      "setpoint_c": 3.5,
+      "ambient_assumed_c": 22.0,
+      "assumption_type": "illustrative",
+      "rationale": "hypothetical destination handling",
+      "air": {
+        "channel": "air",
+        "duration_h": 4.0,
+        "peak_c": 3.63800487843201,
+        "mean_c": 3.1665360290591016,
+        "references": {
+          "2.0": {
+            "hours_above": 3.9341991341519935,
+            "percent_time_above": 98.35497835379984,
+            "degree_hours": 4.669857770884729,
+            "max_continuous_excursion_h": 3.9341991341519935,
+            "fraction_of_route_degree_hours": 0.29418796345485176
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      },
+      "estimated_product": {
+        "channel": "estimated_product",
+        "duration_h": 4.0,
+        "peak_c": 3.2768924054457926,
+        "mean_c": 2.668866582872822,
+        "references": {
+          "2.0": {
+            "hours_above": 3.6535775928674172,
+            "percent_time_above": 91.33943982168543,
+            "degree_hours": 2.687914742012567,
+            "max_continuous_excursion_h": 3.6535775928674172,
+            "fraction_of_route_degree_hours": 0.21969640660750683
+          },
+          "4.0": {
+            "hours_above": 0.0,
+            "percent_time_above": 0.0,
+            "degree_hours": 0.0,
+            "max_continuous_excursion_h": 0.0,
+            "fraction_of_route_degree_hours": null
+          }
+        }
+      }
+    }
+  ],
+  "events": [],
+  "source_provenance": {
+    "kind": "coldroom",
+    "source": "zenodo_15130001:SENSOR02:after_120h",
+    "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+    "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+    "offset_to_synthetic_setpoint": true,
+    "stage_local_cycle": false,
+    "route_clock_cycle": true,
+    "source_timezone": "unknown_or_not_applicable_relative_time",
+    "source_window_c": [
+      6.2,
+      7.3
+    ],
+    "residual_quantiles_c": [
+      -0.39999999999999947,
+      -0.2999999999999998,
+      0.0,
+      0.40000000000000036,
+      0.7000000000000002
+    ],
+    "spacing_h": 0.25,
+    "period_h": 24.0,
+    "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+  },
+  "capabilities": {
+    "trout_tvc": {
+      "status": "LIMITED",
+      "scope": "age-only, nominal 4 C, one study; separate diagnostic"
+    },
+    "smoked_catfish_endpoint": {
+      "status": "LIMITED",
+      "scope": "categorical treatment lookup; smoked product"
+    },
+    "dafif_clusters": {
+      "status": "DESCRIPTIVE_ONLY",
+      "scope": "unlabeled workbook patterns"
+    },
+    "fresh_finfish_variable_temperature_quality": {
+      "status": "NOT_CALIBRATED"
+    },
+    "spoilage_probability": {
+      "status": "NOT_CALIBRATED"
+    }
+  }
+}

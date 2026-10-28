@@ -1,0 +1,19 @@
+{
+  "algorithm": "exact_shapley_all_2^3_coalitions",
+  "reference_c": 2.0,
+  "players": [
+    "road_failure",
+    "airport_delay_door",
+    "flight_excursion"
+  ],
+  "baseline_degree_hours": 15.045518284998254,
+  "combined_degree_hours": 128.08293713646458,
+  "combined_delta_degree_hours": 113.03741885146633,
+  "contribution_degree_hours": {
+    "road_failure": 55.76987656756864,
+    "airport_delay_door": 37.267630074968764,
+    "flight_excursion": 19.99991220892892
+  },
+  "sum_check": 113.03741885146633,
+  "interpretation": "attribution of simulated intervention effects; not real causal spoilage risk"
+}

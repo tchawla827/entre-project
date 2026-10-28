@@ -1,0 +1,13 @@
+schema_version: 1
+routes: [air, sea]
+modes: [synthetic, proxy_citrus, proxy_coldroom]
+references_c: [2.0, 4.0]
+default_species: Mackerel
+step_minutes: 15
+seed: 2404
+monte_carlo_draws: {air: 200, sea: 100}
+standardized_event: {kind: setpoint_offset, start_h: 1.0, duration_h: 2.0, delta_c: 3.0}
+stress_profiles:
+  low: {duration_multiplier: 0.85, setpoint_offset_c: -0.5, ambient_offset_c: -3.0, air_tau_h: 0.4, product_tau_h: 0.75, event_duration_multiplier: 0.75}
+  central: {duration_multiplier: 1.0, setpoint_offset_c: 0.0, ambient_offset_c: 0.0, air_tau_h: 0.75, product_tau_h: 1.5, event_duration_multiplier: 1.0}
+  high: {duration_multiplier: 1.15, setpoint_offset_c: 0.5, ambient_offset_c: 3.0, air_tau_h: 1.2, product_tau_h: 3.0, event_duration_multiplier: 1.25}

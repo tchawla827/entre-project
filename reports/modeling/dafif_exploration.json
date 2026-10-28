@@ -1,0 +1,12 @@
+{
+  "n_sensor_readings": 27120,
+  "n_workbooks": 63,
+  "biological_fish_ids": 0,
+  "selected_k": 3,
+  "silhouette": 0.30477915913492837,
+  "pca_variance_explained": [
+    0.4540745549430447,
+    0.290197366960039
+  ],
+  "status": "unsupervised descriptive; no spoilage validation"
+}

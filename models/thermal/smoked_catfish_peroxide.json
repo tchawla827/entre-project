@@ -1,0 +1,108 @@
+{
+  "source": "mendeley_tvsw53j89z_v1",
+  "target": "Peroxide value, source units",
+  "temperature_conditions_c": {
+    "Ambient": [
+      25,
+      30
+    ],
+    "Refrigerated": [
+      4,
+      5
+    ]
+  },
+  "product_state": "smoked",
+  "curves": {
+    "LDPE|Ambient": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.88,
+        10.485,
+        42.34
+      ],
+      "n_replicates_per_cell": 2
+    },
+    "LDPE|Refrigerated": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.8,
+        8.99,
+        20.68
+      ],
+      "n_replicates_per_cell": 2
+    },
+    "Paper|Ambient": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.69,
+        1.745,
+        2.385
+      ],
+      "n_replicates_per_cell": 2
+    },
+    "Paper|Refrigerated": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.75,
+        1.58,
+        1.9900000000000002
+      ],
+      "n_replicates_per_cell": 2
+    },
+    "Vacuum|Ambient": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.8,
+        1.895,
+        7.45
+      ],
+      "n_replicates_per_cell": 2
+    },
+    "Vacuum|Refrigerated": {
+      "days": [
+        0,
+        30,
+        60,
+        90
+      ],
+      "means": [
+        0.0,
+        0.72,
+        1.2149999999999999,
+        1.7999999999999998
+      ],
+      "n_replicates_per_cell": 2
+    }
+  },
+  "warning": "Cell-mean interpolation; no independent run or variable-temperature validation."
+}

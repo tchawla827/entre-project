@@ -1,0 +1,7 @@
+assumption,spearman_with_combined_delta_2c
+duration_multiplier,-0.017763444086102153
+setpoint_offset_c,0.26664366609165235
+ambient_offset_c,0.468260706517663
+air_tau_h,0.25007725193129837
+product_tau_h,-0.02054601365034126
+event_duration_multiplier,0.855774394359859

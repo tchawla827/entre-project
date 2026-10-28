@@ -1,0 +1,37 @@
+{
+  "theil_sen": {
+    "linear_minus_challenger_mae_day_bootstrap_95pct": [
+      -0.06624009132896005,
+      0.2341258999378582
+    ],
+    "wins_out_of_6_days": 4
+  },
+  "huber": {
+    "linear_minus_challenger_mae_day_bootstrap_95pct": [
+      -0.026606147530704782,
+      0.041035913686414766
+    ],
+    "wins_out_of_6_days": 3
+  },
+  "linear_ridge_1": {
+    "linear_minus_challenger_mae_day_bootstrap_95pct": [
+      -0.019634964382104103,
+      0.020667669809813383
+    ],
+    "wins_out_of_6_days": 3
+  },
+  "isotonic_day_means": {
+    "linear_minus_challenger_mae_day_bootstrap_95pct": [
+      -0.42393485838779965,
+      -0.04775580177216143
+    ],
+    "wins_out_of_6_days": 1
+  },
+  "spline_ridge_10": {
+    "linear_minus_challenger_mae_day_bootstrap_95pct": [
+      -1.0210462696225573,
+      0.3243555887574092
+    ],
+    "wins_out_of_6_days": 2
+  }
+}

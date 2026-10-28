@@ -1,0 +1,24 @@
+{
+  "dafif_sensor_rows": 27120,
+  "dafif_workbooks": 63,
+  "dafif_fish_ids_nonnull": 0,
+  "dafif_sensory_criterion_rows": 774,
+  "dafif_sensory_assessment_groups": 129,
+  "dafif_sensory_linked_fish_ids": 0,
+  "dafif_official_folder_filename_conflict_rows": 420,
+  "trout_sensor_rows": 25200,
+  "trout_sensor_fillets": 59,
+  "trout_sensor_sessions": 210,
+  "trout_measured_tvc_fish": 21,
+  "trout_tvc_paired_sensor_fish": 0,
+  "trout_storage_temperature_conditions": [
+    4.0
+  ],
+  "catfish_measured_rows": 336,
+  "catfish_postbaseline_rows": 252,
+  "catfish_product_states": [
+    "smoked"
+  ],
+  "main_fresh_fish_supervised_sensor_classifier": "BLOCKED",
+  "external_indian_shipment_validation": "BLOCKED"
+}

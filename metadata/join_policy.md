@@ -1,0 +1,3 @@
+# Join policy
+
+DaFiF sensor and sensory scores may be compared descriptively at species, storage day and session. They must not be joined as specimen-matched training examples. The sensor recording group is a workbook, not a fish ID. Trout sensor fillets and destructive TVC fillets are disjoint biological subsets; the repeated TVC and class embedded in sensor CSVs are day-level proxies. MPEDA item, market and port tables are separate annual marginal totals, so a product × destination × port join is invalid. Citrus and generic cold-room traces cannot be linked to fish quality as observed journeys. Catfish package treatment outcomes cannot be joined to DaFiF. Only a real shared fish/lot/shipment key with documented provenance may establish evaluation pairs.

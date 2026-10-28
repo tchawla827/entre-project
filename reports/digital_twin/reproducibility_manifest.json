@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "python": "3.12.16",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.4",
+  "pandas": "2.3.3",
+  "scipy": "1.16.2",
+  "sklearn": "1.7.2",
+  "config_file": "configs\\digital_twin\\experiment.yaml",
+  "config_and_code_sha256": {
+    "configs\\digital_twin\\experiment.yaml": "0da8239eb598b39f7084c72e747927d8301b9f0ce4e5f0c9e7412cdfe1f7d896",
+    "configs\\digital_twin\\sea_route.yaml": "bb9544c9cf5651faf60cfcc86fcc6908b94ed741d67c69cc774c28c85ab90e46",
+    "src\\digital_twin\\__init__.py": "f1869c62122cd2a86cc65b14590ede29dda61b2277bbbce6f256aeeda1fe187d",
+    "src\\digital_twin\\cli.py": "8140f473e3bb85acc68ba467ae3040ee867f6d6c65a87aa4b430b62ab513fa7a",
+    "src\\digital_twin\\experiments.py": "6b6f25f0d998610448fd045a773b9cd949b60d49daa180ba4e22148c9de797fe",
+    "src\\digital_twin\\exposure.py": "7e98edef4739e97f96c10acb33935ad97bf80eced477f2210b55f62a41328830",
+    "src\\digital_twin\\phase2_adapter.py": "759f129812fdb3130dcb804397e5a013c457f7cfaa67ffd60d1fe013a9566d40",
+    "src\\digital_twin\\plots.py": "82bd133221bbbd735d68cf7a33bfbfc80b591f337e3861f5a289647f7007c84f",
+    "src\\digital_twin\\routes.py": "d397447828cca78f925d3937276a39e8ecffd5c9a3c5f95aaf94b5eb8fc9725a",
+    "src\\digital_twin\\schemas.py": "81161b00896119f8217d3221e5726eaaac0b73245a11e58e32f667f8a99a4262",
+    "src\\digital_twin\\simulation.py": "b8dfa382d7facb9d5fa8c470cf2dd11454d6af4199fa74a50271a77361780224",
+    "src\\digital_twin\\temperature.py": "fb84447098500f447df5f79b26170875cc168d443e083f72aa0bb1e002385186"
+  },
+  "model_sha256": {
+    "models\\exploration\\dafif_workbooks.joblib": "84ef9d050dc10320f692237f6094bc83f138773d0b2103ab2b8fa56987cfeb90",
+    "models\\freshness\\trout_tvc.joblib": "e4f5f0ce0ba26b1baac82b3ab78c541b55a7063fe607d2819cb9018d3809b56c",
+    "models\\thermal\\smoked_catfish_endpoints.json": "fc0e0de9bf148f97740978853f6aaaedc286d54ed2ef6bcc50043f2ef297ccca",
+    "models\\thermal\\smoked_catfish_peroxide.json": "e425df2329c7f4610941611c9b1e2998a21ce73e182e95fd00beae488c469e88"
+  },
+  "curated_source_sha256": {
+    "data\\curated\\citrus_reefer_temperature_proxy.parquet": "3ff7d5f5e80a6484edcaa3547f6f51a9701e677efa03abd95646cae1ae4282c8",
+    "data\\curated\\coldroom_temperature_proxy.parquet": "a66dd3105fd4b232a08b1978674e0f60c18a8cc9c617c4c23b683421e0151cff",
+    "data\\curated\\mpeda_export_statistics.parquet": "b38ce98c090ed0fea06073cc65183b32546deedd99d654cb4061d9d45876628c"
+  },
+  "source_scope": "scenario/aggregate/nonfish-proxy; no observed Indian fish shipment",
+  "thermal_biology_calibration": "NOT_CALIBRATED"
+}

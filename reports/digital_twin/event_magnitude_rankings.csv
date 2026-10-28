@@ -1,0 +1,7 @@
+profile,reference_c,intervention,delta_degree_hours
+brief_road_failure,2.0,airport_delay_door,37.300275200556335
+brief_road_failure,4.0,airport_delay_door,30.294323281565557
+nominal,2.0,road_failure,55.802521693156166
+nominal,4.0,road_failure,46.51743243079007
+strong_flight_excursion,2.0,flight_excursion,63.997968669191096
+strong_flight_excursion,4.0,road_failure,46.51743243079007

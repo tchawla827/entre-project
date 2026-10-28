@@ -1,0 +1,5 @@
+reference_c,dominant_intervention,draws,fraction
+2.0,airport_delay_door,3,0.015
+2.0,road_failure,197,0.985
+4.0,airport_delay_door,7,0.035
+4.0,road_failure,193,0.965

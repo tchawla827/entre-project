@@ -1,0 +1,30 @@
+sources:
+  dafif:
+    version: 1
+    doi: 10.17632/vx4ptwk3pb.1
+    url: https://data.mendeley.com/datasets/vx4ptwk3pb/1
+    license: CC-BY-4.0
+    expected_sensor_workbooks: 63
+  dafif_article:
+    url: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11528684/fullTextXML
+    table: tbl0003
+  trout:
+    version: v4
+    doi: 10.5281/zenodo.23600663
+    url: https://zenodo.org/records/23600663
+    license: CC-BY-4.0
+    acquisition: selected_tabular_members_via_http_range_from_21GB_ZIP
+    measured_tvc_specimens: 21
+    sensor_and_microbiology_specimens_match: false
+  mpeda:
+    url: https://mpeda.gov.in/?page_id=438
+    grain: independent item/market/port financial-year marginals
+  catfish:
+    doi: 10.17632/tvsw53j89z.1
+    product_state: smoked
+  citrus:
+    doi: 10.17632/mvr7m6mcgp.2
+    product: citrus
+  coldroom:
+    doi: 10.5281/zenodo.15130001
+    product: generic cold-room experiment

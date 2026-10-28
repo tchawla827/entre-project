@@ -1,0 +1,7 @@
+scenario,stage_id,event_kind,event_duration_h,includes_upstream_carryover,time_to_recovery_h,recovery_censored_at_stage_end,air_event_window_extra_degree_hours_above_2p0c,estimated_product_event_window_extra_degree_hours_above_2p0c,air_event_window_extra_degree_hours_above_4p0c,estimated_product_event_window_extra_degree_hours_above_4p0c
+road_failure,road,refrigeration_off,2.0,False,,True,35.93448261372455,12.712098905745936,32.06134832745591,9.546395940479181
+airport_delay_door,airport,door_open,0.75,False,3.0374915916129894,False,14.227866882031307,2.723482956775076,13.562058816606136,1.8655499797217678
+flight_excursion,flight,setpoint_offset,4.0,False,1.7190571651461828,False,16.17845441622881,9.776343065654244,8.693271078543646,3.6523937758243274
+combined,road,refrigeration_off,2.0,True,,True,35.93448261372455,12.712098905745936,32.06134832745591,9.546395940479181
+combined,airport,door_open,0.75,True,3.0375544008115667,False,14.255652997891149,4.353417076106175,13.588317917826707,3.359939382273743
+combined,flight,setpoint_offset,4.0,True,1.5768318678372384,False,15.96716734847765,9.708903781587885,8.518803685950962,3.5875198672554047

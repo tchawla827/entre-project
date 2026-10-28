@@ -1,0 +1,9 @@
+{
+  "linear_minus_theil_sen_mae_95pct": [
+    -0.13228009089340875,
+    0.3375491094398324
+  ],
+  "theil_sen_wins_out_of_four_days": 1,
+  "n_forward_day_groups": 4,
+  "seed": 48
+}

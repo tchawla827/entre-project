@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "capabilities": {
+    "trout_tvc": {
+      "status": "LIMITED",
+      "scope": "age-only, nominal 4 C, one study; separate diagnostic"
+    },
+    "smoked_catfish_endpoint": {
+      "status": "LIMITED",
+      "scope": "categorical treatment lookup; smoked product"
+    },
+    "dafif_clusters": {
+      "status": "DESCRIPTIVE_ONLY",
+      "scope": "unlabeled workbook patterns"
+    },
+    "fresh_finfish_variable_temperature_quality": {
+      "status": "NOT_CALIBRATED"
+    },
+    "spoilage_probability": {
+      "status": "NOT_CALIBRATED"
+    }
+  },
+  "integrated_targets": {
+    "thermal_exposure": "SIMULATED_EXPOSURE_ONLY",
+    "trout_tvc_within_domain": "LIMITED_WITHIN_STUDY",
+    "smoked_catfish_endpoint_within_domain": "LIMITED_WITHIN_STUDY",
+    "fresh_fish_quality_trajectory": "NOT_CALIBRATED",
+    "spoilage_probability": "NOT_CALIBRATED"
+  }
+}

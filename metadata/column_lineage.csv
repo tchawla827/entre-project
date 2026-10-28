@@ -1,0 +1,185 @@
+table,column,source,transformation,source_record_pointer
+fish_sensor_observations,observation_id,DaFiF official v1 workbook,"Stable source file UUID and one-based Excel row, or source-specific row ID",source_file plus source_row/record ID where available
+fish_sensor_observations,source_id,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,source_file,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,source_file_id,DaFiF official v1 workbook,Official Mendeley file UUID,source_file plus source_row/record ID where available
+fish_sensor_observations,source_row,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,recording_group_id,DaFiF official v1 workbook,One DaFiF workbook; not an independent biological fish,source_file plus source_row/record ID where available
+fish_sensor_observations,fish_type_source,DaFiF official v1 workbook,Raw filename spelling; preserve misspellings,source_file plus source_row/record ID where available
+fish_sensor_observations,species_common,DaFiF official v1 workbook,Source repository common-name category; scientific species unresolved for DaFiF,source_file plus source_row/record ID where available
+fish_sensor_observations,storage_day_one_based,DaFiF official v1 workbook,Published day number 1 through 11,source_file plus source_row/record ID where available
+fish_sensor_observations,storage_age_days,DaFiF official v1 workbook,Published day minus one; not measured post-harvest hours,source_file plus source_row/record ID where available
+fish_sensor_observations,session_number,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,date_source,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,time_source,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,local_timestamp,DaFiF official v1 workbook,"Clock time as recorded, timezone unspecified",source_file plus source_row/record ID where available
+fish_sensor_observations,mq135_raw,DaFiF official v1 workbook,Instrument output in unknown physical units; not calibrated ammonia concentration,source_file plus source_row/record ID where available
+fish_sensor_observations,tgs2602_raw,DaFiF official v1 workbook,Instrument output in unknown physical units; not calibrated gas concentration,source_file plus source_row/record ID where available
+fish_sensor_observations,elapsed_seconds,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,mq135_raw_delta,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,mq135_raw_roll_mean_10,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,mq135_raw_roll_std_10,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,tgs2602_raw_delta,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,tgs2602_raw_roll_mean_10,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,tgs2602_raw_roll_std_10,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,measurement_unit,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,product_state,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,provenance_type,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,timestamp_timezone,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,fish_or_lot_id,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,product_temperature_c,DaFiF official v1 workbook,Unavailable for DaFiF,source_file plus source_row/record ID where available
+fish_sensor_observations,stage_id,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_sensor_observations,filename_session_conflict,DaFiF official v1 workbook,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,assessment_id,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,source_id,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,source_table,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,source_table_row,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,species_common,Prasetyo et al. 2024 Table 3,Source repository common-name category; scientific species unresolved for DaFiF,source_file plus source_row/record ID where available
+freshness_observed_labels,storage_day_one_based,Prasetyo et al. 2024 Table 3,Published day number 1 through 11,source_file plus source_row/record ID where available
+freshness_observed_labels,storage_age_days,Prasetyo et al. 2024 Table 3,Published day minus one; not measured post-harvest hours,source_file plus source_row/record ID where available
+freshness_observed_labels,session_number,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,criterion,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,sensory_score,Prasetyo et al. 2024 Table 3,Observed criterion score on separate expert-assessed fish; paper includes one 0 despite scale described as 1–9,source_file plus source_row/record ID where available
+freshness_observed_labels,source_scale,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,expert_fish_id,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,biological_replicate_id,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,sensor_fish_id,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,link_to_sensor,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,provenance_type,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+freshness_observed_labels,source_url,Prasetyo et al. 2024 Table 3,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,statistic_id,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,aggregation_grain,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,dimension_type,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,dimension_source,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,financial_year,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,measure_code,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,measure_unit,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,value,MPEDA 2025-26 XLSX,Original MPEDA annual aggregate value in specified measure_unit,source_file plus source_row/record ID where available
+mpeda_export_statistics,source_file,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,source_sheet,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,source_excel_row,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,source_excel_column,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,provenance_type,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+mpeda_export_statistics,source_url,MPEDA 2025-26 XLSX,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,observation_id,Ansong et al. 2026 Mendeley package CSV,"Stable source file UUID and one-based Excel row, or source-specific row ID",source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,package_type,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,meat,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,storage_condition,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,storage_age_days,Ansong et al. 2026 Mendeley package CSV,Published day minus one; not measured post-harvest hours,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,quality_outcome,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,outcome_value,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,row_type,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,replicate_index,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,domain,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,species_common,Ansong et al. 2026 Mendeley package CSV,Source repository common-name category; scientific species unresolved for DaFiF,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,species_scientific,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,product_state,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,source_id,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,temperature_min_c,Ansong et al. 2026 Mendeley package CSV,Published treatment lower bound; no per-package logger,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,temperature_max_c,Ansong et al. 2026 Mendeley package CSV,Published treatment upper bound; no per-package logger,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,temperature_precision,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,experimental_unit_note,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,is_inferential_postbaseline,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,provenance_type,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,source_file,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+fish_temperature_quality_experiments,source_url,Ansong et al. 2026 Mendeley package CSV,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,source_id,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,source_file,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,commodity,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,sensor_position_source,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,sensor_position_type,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,elapsed_hours,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,temperature_c,Berry et al. 2020 six CSV files,Observed proxy logger/product-position series depending on source; no relation to DaFiF fish,source_file plus source_row/record ID where available
+citrus_reefer_temperature_proxy,provenance_type,Berry et al. 2020 six CSV files,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,source_id,Zenodo 15130001 Preprocessed.zip,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,source_file,Zenodo 15130001 Preprocessed.zip,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,sensor_id,Zenodo 15130001 Preprocessed.zip,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,local_timestamp,Zenodo 15130001 Preprocessed.zip,"Clock time as recorded, timezone unspecified",source_file plus source_row/record ID where available
+coldroom_temperature_proxy,temperature_c,Zenodo 15130001 Preprocessed.zip,Observed proxy logger/product-position series depending on source; no relation to DaFiF fish,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,relative_humidity_pct,Zenodo 15130001 Preprocessed.zip,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_temperature_proxy,provenance_type,Zenodo 15130001 Preprocessed.zip,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,observation_id,Zenodo 23600663 selected sensor CSV members,"Stable source file UUID and one-based Excel row, or source-specific row ID",source_file plus source_row/record ID where available
+trout_sensor_observations,source_id,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,source_member,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,storage_day_one_based,Zenodo 23600663 selected sensor CSV members,Published day number 1 through 11,source_file plus source_row/record ID where available
+trout_sensor_observations,storage_age_days,Zenodo 23600663 selected sensor CSV members,Published day minus one; not measured post-harvest hours,source_file plus source_row/record ID where available
+trout_sensor_observations,fillet_id,Zenodo 23600663 selected sensor CSV members,Trout longitudinal fillet identifier from source filename,source_file plus source_row/record ID where available
+trout_sensor_observations,candidate_original_fish_id,Zenodo 23600663 selected sensor CSV members,Filename component inferred as fish ID; requires author confirmation,source_file plus source_row/record ID where available
+trout_sensor_observations,fish_id_status,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,sample_index_in_session,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,mq3_adc,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,mq5_adc,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,mq9_adc,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,mq135_adc,Zenodo 23600663 selected sensor CSV members,"Trout MQ135 raw 10-bit Arduino ADC value, 0–1023; no gas calibration",source_file plus source_row/record ID where available
+trout_sensor_observations,mq137_adc,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,measurement_chamber_temperature_c,Zenodo 23600663 selected sensor CSV members,"Trout sensor measurement chamber temperature, not storage product core",source_file plus source_row/record ID where available
+trout_sensor_observations,measurement_chamber_humidity_pct,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,embedded_day_tvc_proxy_log10_cfu_g,Zenodo 23600663 selected sensor CSV members,Repeated daily mean proxy embedded by source in each sensor row; not a fillet assay,source_file plus source_row/record ID where available
+trout_sensor_observations,embedded_day_label_proxy,Zenodo 23600663 selected sensor CSV members,Source day-level TVC threshold class; not individual fillet ground truth,source_file plus source_row/record ID where available
+trout_sensor_observations,storage_temperature_protocol_c,Zenodo 23600663 selected sensor CSV members,"Nominal 4 °C storage protocol, not observed per-fillet logger",source_file plus source_row/record ID where available
+trout_sensor_observations,storage_temperature_status,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,species_scientific,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,product_state,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_sensor_observations,provenance_type,Zenodo 23600663 selected sensor CSV members,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,outcome_id,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,storage_day_one_based,Zenodo 23600663 tvc_individual_measurements.csv,Published day number 1 through 11,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,microbiology_sample_id,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,tvc_cfu_g,Zenodo 23600663 tvc_individual_measurements.csv,"Observed TVC from destructively assessed trout fillet, CFU/g",source_file plus source_row/record ID where available
+trout_microbiology_outcomes,tvc_log10_cfu_g,Zenodo 23600663 tvc_individual_measurements.csv,"Observed log10 TVC from destructively assessed trout fillet, log10 CFU/g",source_file plus source_row/record ID where available
+trout_microbiology_outcomes,analysis_date,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,certificate_url,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,species_scientific,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,product_state,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,storage_age_days,Zenodo 23600663 tvc_individual_measurements.csv,Published day minus one; not measured post-harvest hours,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,storage_temperature_protocol_c,Zenodo 23600663 tvc_individual_measurements.csv,"Nominal 4 °C storage protocol, not observed per-fillet logger",source_file plus source_row/record ID where available
+trout_microbiology_outcomes,fish_or_fillet_id_link_to_sensor,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,link_to_sensor,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,source_id,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_microbiology_outcomes,provenance_type,Zenodo 23600663 tvc_individual_measurements.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,Fillet_ID,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,Day,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,Meat,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,Skin,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,E_nose,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,source_id,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+trout_modality_availability,provenance_type,Zenodo 23600663 multimodal_fillet_day_matrix.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,Date,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,Action,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,Start Time,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,End Time,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,source_id,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+coldroom_actions_proxy,provenance_type,Zenodo 15130001 experiment_actions.csv,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,reference_id,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,jurisdiction,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,product_state,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,criterion,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,operator,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,value,EU 853/2004 current consolidation 2026-05-07,Original MPEDA annual aggregate value in specified measure_unit,source_file plus source_row/record ID where available
+regulatory_reference,unit,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,legal_location,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,consolidation_date,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,source_url,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+regulatory_reference,interpretation,EU 853/2004 current consolidation 2026-05-07,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,stage_id,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,stage_name,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,origin_region,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,destination_region,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,duration_h,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,product_temperature_c,proposed stages based on Indian case context,Unavailable for DaFiF,source_file plus source_row/record ID where available
+route_stage_catalog,temporal_resolution,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,status,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,source_url,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+route_stage_catalog,source_applicability,proposed stages based on Indian case context,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,evidence_id,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,species,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,product_state,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,temperature_min_c,Mendeley smoked catfish treatment definitions,Published treatment lower bound; no per-package logger,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,temperature_max_c,Mendeley smoked catfish treatment definitions,Published treatment upper bound; no per-package logger,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,duration_min_days,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,duration_max_days,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,quality_endpoint,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,parameter_value,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,parameter_unit,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,uncertainty,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,status,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available
+thermal_deterioration_evidence,doi,Mendeley smoked catfish treatment definitions,source value retained or source-specific rename,source_file plus source_row/record ID where available

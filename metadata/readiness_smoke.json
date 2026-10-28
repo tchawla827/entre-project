@@ -1,0 +1,17 @@
+{
+  "dafif_sensor_recording_groups": 63,
+  "dafif_known_independent_biological_sensor_groups": 0,
+  "dafif_measured_product_temperature_rows": 0,
+  "dafif_specimen_matched_quality_rows": 0,
+  "trout_sensor_fillets": 59,
+  "trout_separate_measured_tvc_fillets": 21,
+  "trout_sensor_tvc_specimen_overlap": 0,
+  "trout_storage_temperature_treatments": 1,
+  "smoked_catfish_treatment_conditions": 2,
+  "independent_indian_export_shipments_with_paired_quality": 0,
+  "exploratory_day_split_group_overlap": false,
+  "measured_freshness_classifier": "BLOCKED",
+  "primary_chilled_finfish_thermal_calibration": "BLOCKED",
+  "independent_export_reliability": "BLOCKED",
+  "scenario_inputs": "CONDITIONALLY_READY"
+}

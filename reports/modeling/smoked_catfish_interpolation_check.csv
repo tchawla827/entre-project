@@ -1,0 +1,7 @@
+package_type,storage_condition,held_out_day,observed_cell_mean,predicted_cell_mean,error
+LDPE,Ambient,60,10.485,21.61,11.125
+LDPE,Refrigerated,60,8.99,10.74,1.75
+Paper,Ambient,60,1.745,1.5374999999999999,-0.20750000000000024
+Paper,Refrigerated,60,1.58,1.37,-0.20999999999999996
+Vacuum,Ambient,60,1.895,4.125,2.23
+Vacuum,Refrigerated,60,1.2149999999999999,1.2599999999999998,0.04499999999999993

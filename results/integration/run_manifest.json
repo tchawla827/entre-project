@@ -1,0 +1,1893 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "baseline",
+      "run_id": "c6eb6eab7ad7720d",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\baseline.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "baseline",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "processing_delay",
+      "run_id": "03abf4524331a4a8",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\processing_delay.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "processing_delay",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "storage_setpoint",
+      "run_id": "b192adad06f82d8f",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\storage_setpoint.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "storage_setpoint",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "road_failure",
+      "run_id": "19a3fa5161153586",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\road_failure.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "road_failure",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "airport_delay_door",
+      "run_id": "521202626804c048",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\airport_delay_door.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "airport_delay_door",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "flight_excursion",
+      "run_id": "d61b7b55610deedd",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\flight_excursion.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "flight_excursion",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "destination_delay",
+      "run_id": "38e52a6610a898ff",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\destination_delay.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "destination_delay",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "synthetic",
+      "scenario": "combined",
+      "run_id": "3c43143c4dd20ac1",
+      "trace_path": "results\\integration\\traces\\air\\synthetic\\combined.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "combined",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "baseline",
+      "run_id": "b0c1d3dd144ae6c5",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\baseline.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "baseline",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "processing_delay",
+      "run_id": "fa305cd862eb1fe8",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\processing_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "processing_delay",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "storage_setpoint",
+      "run_id": "61a6fad1c5e2ae6a",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\storage_setpoint.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "storage_setpoint",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "road_failure",
+      "run_id": "2ec370caeba79e39",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\road_failure.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "road_failure",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "airport_delay_door",
+      "run_id": "aa6fddbd33d10ac1",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\airport_delay_door.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "airport_delay_door",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "flight_excursion",
+      "run_id": "6da1cad298e8368d",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\flight_excursion.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "flight_excursion",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "destination_delay",
+      "run_id": "0a8999c6cc1b7eff",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\destination_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "destination_delay",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_citrus",
+      "scenario": "combined",
+      "run_id": "de506c2a6a6ac4ea",
+      "trace_path": "results\\integration\\traces\\air\\proxy_citrus\\combined.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "combined",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "baseline",
+      "run_id": "b5306f98f38c5143",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\baseline.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "baseline",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "processing_delay",
+      "run_id": "bbc55a3f481f2119",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\processing_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "processing_delay",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "storage_setpoint",
+      "run_id": "2aece6df96f35896",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\storage_setpoint.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "storage_setpoint",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "road_failure",
+      "run_id": "1dcb2c8ed623a04c",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\road_failure.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "road_failure",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "airport_delay_door",
+      "run_id": "8df22e5747ff537b",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\airport_delay_door.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "airport_delay_door",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "flight_excursion",
+      "run_id": "9542daae532cd49d",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\flight_excursion.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "flight_excursion",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "destination_delay",
+      "run_id": "d842594705ea5a01",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\destination_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "destination_delay",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "air",
+      "mode": "proxy_coldroom",
+      "scenario": "combined",
+      "run_id": "dd80072dfb91fcd9",
+      "trace_path": "results\\integration\\traces\\air\\proxy_coldroom\\combined.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "air",
+        "scenario": "combined",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "baseline",
+      "run_id": "a35052b041a30441",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\baseline.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "baseline",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "processing_delay",
+      "run_id": "8236bcfe1b7b80c9",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\processing_delay.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "processing_delay",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "storage_setpoint",
+      "run_id": "1d75f4081fca8050",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\storage_setpoint.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "storage_setpoint",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "road_failure",
+      "run_id": "ff6cd957af81d612",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\road_failure.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "road_failure",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "seaport_delay_door",
+      "run_id": "efe85b8c92397b4b",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\seaport_delay_door.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "seaport_delay_door",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "vessel_excursion",
+      "run_id": "28f9978cdfbd62a9",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\vessel_excursion.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "vessel_excursion",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "destination_delay",
+      "run_id": "38c05717787401a0",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\destination_delay.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "destination_delay",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "synthetic",
+      "scenario": "combined",
+      "run_id": "bff84c99339f023d",
+      "trace_path": "results\\integration\\traces\\sea\\synthetic\\combined.parquet",
+      "source_class": "fully_synthetic",
+      "source_provenance": {
+        "type": "hypothetical_synthetic_first_order_air",
+        "observed_indian_shipment": false
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "combined",
+        "mode": "synthetic",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "baseline",
+      "run_id": "16b3bc5c463074c5",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\baseline.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "baseline",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "processing_delay",
+      "run_id": "e85d9b22de638430",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\processing_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "processing_delay",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "storage_setpoint",
+      "run_id": "9e2d87facc79d77a",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\storage_setpoint.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "storage_setpoint",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "road_failure",
+      "run_id": "b5683d3316fdd7c5",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\road_failure.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "road_failure",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "seaport_delay_door",
+      "run_id": "990413498d381732",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\seaport_delay_door.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "seaport_delay_door",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "vessel_excursion",
+      "run_id": "e17e291494234a62",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\vessel_excursion.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "vessel_excursion",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "destination_delay",
+      "run_id": "7bd52e2aded86090",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\destination_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "destination_delay",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_citrus",
+      "scenario": "combined",
+      "run_id": "4d8db4bf91ea91c8",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_citrus\\combined.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "citrus",
+        "source": "berry_citrus_v2:10C_OP.csv:P1_mean",
+        "source_channel": "source package-position temperature C; not fish or air",
+        "transform": "continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          1.711158162771066,
+          2.720591559301237
+        ],
+        "residual_quantiles_c": [
+          -0.24525983709657195,
+          -0.1418065107334364,
+          -0.004817382039238094,
+          0.14835427922985522,
+          0.30624436154390056
+        ],
+        "spacing_h": 0.5,
+        "period_h": 384.5,
+        "warning": "citrus_package_position_not_container_air_or_fish_core"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "combined",
+        "mode": "proxy_citrus",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "baseline",
+      "run_id": "7d0674c7f0f96999",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\baseline.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "baseline",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "processing_delay",
+      "run_id": "2dc1d5dfe77f0840",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\processing_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "processing_delay",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "storage_setpoint",
+      "run_id": "ce8a4c6e1469a645",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\storage_setpoint.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "storage_setpoint",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "road_failure",
+      "run_id": "abe7e79ad5305938",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\road_failure.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "road_failure",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "seaport_delay_door",
+      "run_id": "7cebf990655c401e",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\seaport_delay_door.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "seaport_delay_door",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "vessel_excursion",
+      "run_id": "fbb2785e46640e6e",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\vessel_excursion.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "vessel_excursion",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "destination_delay",
+      "run_id": "14f81063f5d36a86",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\destination_delay.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "destination_delay",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    },
+    {
+      "route": "sea",
+      "mode": "proxy_coldroom",
+      "scenario": "combined",
+      "run_id": "3f8aef060d85f59f",
+      "trace_path": "results\\integration\\traces\\sea\\proxy_coldroom\\combined.parquet",
+      "source_class": "nonfish_proxy_shaped_synthetic",
+      "source_provenance": {
+        "kind": "coldroom",
+        "source": "zenodo_15130001:SENSOR02:after_120h",
+        "source_channel": "generic cold-room local sensor C; timezone/location unknown",
+        "transform": "continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded",
+        "offset_to_synthetic_setpoint": true,
+        "stage_local_cycle": false,
+        "route_clock_cycle": true,
+        "source_timezone": "unknown_or_not_applicable_relative_time",
+        "source_window_c": [
+          6.2,
+          7.3
+        ],
+        "residual_quantiles_c": [
+          -0.39999999999999947,
+          -0.2999999999999998,
+          0.0,
+          0.40000000000000036,
+          0.7000000000000002
+        ],
+        "spacing_h": 0.25,
+        "period_h": 24.0,
+        "warning": "generic_cold_room_sensor_location_and_timezone_unknown"
+      },
+      "request": {
+        "schema_version": 1,
+        "target": "thermal_exposure",
+        "route": "sea",
+        "scenario": "combined",
+        "mode": "proxy_coldroom",
+        "species": "Mackerel",
+        "references_c": [
+          2.0,
+          4.0
+        ],
+        "step_minutes": 15,
+        "seed": 2404
+      }
+    }
+  ]
+}

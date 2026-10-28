@@ -1,0 +1,19 @@
+{
+  "sensor_rows": 27120,
+  "recording_groups": 63,
+  "sensory_criterion_rows": 774,
+  "sensory_assessment_groups": 129,
+  "mpeda_sheets": 3,
+  "mpeda_statistic_rows": 10788,
+  "official_sensor_files": 63,
+  "smoked_catfish_outcome_rows": 336,
+  "trout_sensor_rows": 25200,
+  "trout_individual_tvc_rows": 21,
+  "trout_modality_rows": 413,
+  "citrus_temperature_rows": 31140,
+  "coldroom_temperature_rows": 1411515,
+  "coldroom_event_rows": 127,
+  "regulatory_reference_rows": 2,
+  "route_stage_catalog_rows": 7,
+  "thermal_evidence_rows": 2
+}

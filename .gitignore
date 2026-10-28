@@ -1,0 +1,20 @@
+# Generated runtime and caches
+.venv/
+.tools/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.part
+dist/
+
+# Downloaded and regenerated data; the runner rebuilds these
+data/raw/
+data/interim/
+data/curated/
+data/processed/
+data/external_validation/
+
+# Local run records
+reports/setup/last_run.json
+presentation/preview/
+presentation/contact_sheet.png

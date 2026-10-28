@@ -1,0 +1,5 @@
+# Scientific scope of the focused UI
+
+The visible scope line says **Simulation only · Fish spoilage is not calibrated**. The dashboard displays °C and °C·h from hypothetical routes, never a spoilage probability, shelf life, safety or compliance verdict. The product-lag channel is labeled assumed; the two proxy source options are labeled citrus and cold-room shapes. The reference line is described as a comparison reference. The collapsed details explain that the proxies are nonfish patterns and the product channel is not measured fish core.
+
+The scenario comparison uses only same-route, same-mode, same-channel, same-reference Phase 4 Parquet rows. Its bars show added thermal exposure relative to baseline, not biological risk. The UI does not present trout, smoked-catfish or DaFiF diagnostics as shipment predictions. Those limited analyses and the blocked biological tasks remain documented in [Phase 4's capability report](../integration/model_capabilities_and_blockers.md). Paired fresh-fish temperature/quality trials and independent Indian shipment outcomes are still required for calibration.

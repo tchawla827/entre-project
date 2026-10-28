@@ -1,0 +1,66 @@
+schema_version: 1
+route_id: kochi_air_to_eu_chilled_finfish_hypothetical
+context: MPEDA FY2025-26 chilled-items, EU-market and Kochi-air-cargo separate marginal totals; no cross-tabbed shipment
+context_source: https://mpeda.gov.in/?page_id=438
+product_state: ice_stored_chilled_finfish
+species_options: [Mackerel, Tilapia, Tuna]
+start_utc: '2026-01-01T00:00:00+00:00'
+step_minutes: 15
+air_reference_c: [2.0, 4.0]
+air_dynamics_tau_h: 0.75
+illustrative_product_lag_tau_h: 1.5
+initial_air_c: 1.5
+initial_estimated_product_c: 1.0
+ambient_default_c: 24.0
+assumption_status: hypothetical_operational_scenario_not_observed_shipment
+stages:
+  - {id: landing_icing, name: Landing and icing, mode: handling, duration_h: 3, setpoint_c: 1.5, ambient_c: 24, assumption_type: illustrative, rationale: near-ice chilled handling scenario}
+  - {id: processing, name: Processing and packing, mode: facility, duration_h: 5, setpoint_c: 3.0, ambient_c: 24, assumption_type: illustrative, rationale: bounded handling-room scenario}
+  - {id: cold_storage, name: Cold storage, mode: storage, duration_h: 12, setpoint_c: 1.0, ambient_c: 24, assumption_type: illustrative, rationale: chilled holding scenario}
+  - {id: road, name: Refrigerated road transfer, mode: road, duration_h: 5, setpoint_c: 2.0, ambient_c: 30, assumption_type: illustrative, rationale: hypothetical road transfer}
+  - {id: airport, name: Indian airport handling, mode: terminal, duration_h: 6, setpoint_c: 3.0, ambient_c: 30, assumption_type: illustrative, rationale: hypothetical export handling}
+  - {id: flight, name: International air transport, mode: air, duration_h: 12, setpoint_c: 2.0, ambient_c: 22, assumption_type: illustrative, rationale: illustrative air transit duration; no route log}
+  - {id: destination, name: EU arrival and inspection, mode: terminal, duration_h: 4, setpoint_c: 3.5, ambient_c: 22, assumption_type: illustrative, rationale: hypothetical destination handling}
+scenarios:
+  baseline: {changes: []}
+  processing_delay:
+    changes: [{stage: processing, duration_delta_h: 3}]
+  storage_setpoint:
+    changes: [{stage: cold_storage, setpoint_delta_c: 3}]
+  road_failure:
+    changes: [{stage: road, events: [{kind: refrigeration_off, start_h: 1, duration_h: 2}]}]
+  airport_delay_door:
+    changes: [{stage: airport, duration_delta_h: 3, events: [{kind: door_open, start_h: 2, duration_h: 0.75}]}]
+  flight_excursion:
+    changes: [{stage: flight, events: [{kind: setpoint_offset, start_h: 4, duration_h: 4, delta_c: 5}]}]
+  destination_delay:
+    changes: [{stage: destination, duration_delta_h: 3}]
+  combined:
+    changes:
+      - {stage: road, events: [{kind: refrigeration_off, start_h: 1, duration_h: 2}]}
+      - {stage: airport, duration_delta_h: 3, events: [{kind: door_open, start_h: 2, duration_h: 0.75}]}
+      - {stage: flight, events: [{kind: setpoint_offset, start_h: 4, duration_h: 4, delta_c: 5}]}
+proxy_replay:
+  citrus:
+    source_file: 10C_OP.csv
+    sensor_position_source: P1_mean
+    discard_first_h: 48
+    detrend_window_h: 24
+    replay_policy: continuous_route_clock_cycle_of_detrended_residuals_at_original_half_hour_grid
+    source_channel_warning: citrus_package_position_not_container_air_or_fish_core
+  coldroom:
+    sensor_id: SENSOR02
+    discard_first_h: 120
+    window_h: 24
+    resample_minutes: 15
+    replay_policy: continuous_route_clock_cycle_of_stable_day5_window_median_centered_residuals; anomalous earlier windows excluded
+    source_channel_warning: generic_cold_room_sensor_location_and_timezone_unknown
+monte_carlo:
+  seed: 2403
+  draws: 200
+  duration_multiplier: [0.85, 1.15]
+  setpoint_offset_c: [-0.5, 0.5]
+  ambient_offset_c: [-3.0, 3.0]
+  air_tau_h: [0.4, 1.2]
+  product_tau_h: [0.75, 3.0]
+  event_duration_multiplier: [0.75, 1.25]

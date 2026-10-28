@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "run_count": 48,
+  "comparison_rows": 192,
+  "stage_rows": 1344,
+  "phase3_air_reference_reproduced": true,
+  "stage_conservation": true,
+  "shapley_efficiency": true,
+  "all_trace_parquet_loadable": true,
+  "spoilage_probability_refused": true
+}

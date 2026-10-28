@@ -1,0 +1,1989 @@
+{
+  "generated_utc": "2026-10-28T02:03:02.470836+00:00",
+  "raw_files": [
+    {
+      "path": "data/raw/dafif_official/02807872-4831-4396-a47b-f4b211d1d6e8_Rekap Mujair 28 sesi 2.xlsx",
+      "bytes": 22106,
+      "sha256": "495ffc8cd0cc5fd3cdcf146af7e13d9def0bce9b3709e0701f2be3d147c250f1"
+    },
+    {
+      "path": "data/raw/dafif_official/066289e3-bf4d-4f3c-ab47-9c119a5b7bb5_20-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21215,
+      "sha256": "c1e9a011ae26138110453f1fdf0fc663e986dca30c88b026f42874eec2cdece2"
+    },
+    {
+      "path": "data/raw/dafif_official/0efdefd0-cf87-4e7a-9372-109de972d361_27-01-2024(MujairSesi1).xlsx",
+      "bytes": 21487,
+      "sha256": "32d150bbbe2592480f5f295e6b6561c1c7c12b89ef4e4256453d6a91e41117b9"
+    },
+    {
+      "path": "data/raw/dafif_official/124d9aa4-3a58-4aa3-be1c-75e76145d155_Rekap Makarel 22 Sesi 2.xlsx",
+      "bytes": 21639,
+      "sha256": "91cfd9029529bd327143f474bbbab2890527ea785b910e27cc77673a99b0773e"
+    },
+    {
+      "path": "data/raw/dafif_official/1463c29a-2aa7-418c-bf5f-ad6f520e6c16_Rekap Makarel 25 Sesi 2.xlsx",
+      "bytes": 21689,
+      "sha256": "8ec20cd90492e8cea51db3c685dbf01b4c36a8144e7ff149f110957fe184392a"
+    },
+    {
+      "path": "data/raw/dafif_official/1e327e5a-4598-4dd2-a556-dad58d976b33_26-01-2024(MujairSesi1).xlsx",
+      "bytes": 21392,
+      "sha256": "5e158b53b5507b2f670122425a2b7c4eeb7fadfd42b99a08080c3a106d89d6c7"
+    },
+    {
+      "path": "data/raw/dafif_official/1feeb420-7c5d-4065-b12d-c92a8ff93bdd_23-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21360,
+      "sha256": "aa5d00262e2686cb68df48589844db88c1dce55ab71befc23f504e0daa18aa87"
+    },
+    {
+      "path": "data/raw/dafif_official/201c3bc9-a02c-4f23-8e6f-6a286b876a85_27-01-2024(MujairSesi2).xlsx",
+      "bytes": 21605,
+      "sha256": "be8db7ebdaa294466b54cb43d68cb97c889af420b68cb7cf7f4e517db6fdcadb"
+    },
+    {
+      "path": "data/raw/dafif_official/22c94848-836b-490e-bd3c-06491901737d_21-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21443,
+      "sha256": "545f48ded38ec1208bfc6df63ee19b25ac3ef30d5ca8a507ff8e9d0b4ed394de"
+    },
+    {
+      "path": "data/raw/dafif_official/29f29aa1-16a1-4ed5-8f1a-88cb3e94e152_Rekap Tongkol 25 sesi 2.xlsx",
+      "bytes": 21789,
+      "sha256": "5704c437a8fbcd288ca0abfd23313ca06c7ff91112ee891d851a101ad6b0ccd9"
+    },
+    {
+      "path": "data/raw/dafif_official/2aa5ce4c-4439-4372-b0e5-70630b831148_20-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21373,
+      "sha256": "2ff0deeda78ccbb9460179d0ec860341e6f8a4d81fbf6ef1699bd35a3734a183"
+    },
+    {
+      "path": "data/raw/dafif_official/2ee75fbc-e3a5-42a0-8d08-4b9b1f0add74_Rekap Mujair 25 Sesi 2.xlsx",
+      "bytes": 21792,
+      "sha256": "dfc93bf8a3f16d789a97f7c2886e253148dd8689708079d0a1625c5022c69071"
+    },
+    {
+      "path": "data/raw/dafif_official/30c13575-4d17-455a-bf45-b4bc1d126826_27-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21691,
+      "sha256": "c96d13568a460760a00b6797b532ee334aa5d13a23866d5e41a04726fbe81547"
+    },
+    {
+      "path": "data/raw/dafif_official/351ff7c0-901c-4fe6-aa9a-4596babb1841_27-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21655,
+      "sha256": "fd1d4179dd73b4b7021bf2094f95e9aeed6f7f9e7faaf6725be1931d557c81a3"
+    },
+    {
+      "path": "data/raw/dafif_official/3aa4c216-f6c8-41c4-a633-16be7652a50f_Rekap Makarel 22 Sesi 1.xlsx",
+      "bytes": 21670,
+      "sha256": "d92161a89b88791cadba8356744a519c3332a64beec1ee19a45ed64a7d6d466a"
+    },
+    {
+      "path": "data/raw/dafif_official/417662d9-8e60-4bbd-83a7-e63f9583e002_Rekap Tongkol 22 sesi 1.xlsx",
+      "bytes": 21728,
+      "sha256": "93ad4c1bc2e382a54c548a0e3c97b29ded751ec6afebf50d62bf3926ee417ff8"
+    },
+    {
+      "path": "data/raw/dafif_official/41d85fcb-716e-424f-810b-014b6c9b21b6_19-01-2024(Tongkol).xlsx",
+      "bytes": 27626,
+      "sha256": "e6560cf10a067066f55e1e33c4cac575e623a4f3a9d91405a18e5b9663ae18b9"
+    },
+    {
+      "path": "data/raw/dafif_official/41f32114-3468-453a-ada4-188a45d74625_29-01-2024(MujairSesi2).xlsx",
+      "bytes": 21454,
+      "sha256": "2b15e12bd924e49bd0d0c52e21d9fa8cb446936e8a9861d38f577841acf6f9c6"
+    },
+    {
+      "path": "data/raw/dafif_official/4415a936-494f-4041-9ddc-b2ba3c195fd8_Rekap Mujair 25 Sesi 1.xlsx",
+      "bytes": 21742,
+      "sha256": "cff93502b420e98ed8228dd417bee7effbcb24766213a057f810dc0dd5f0dc40"
+    },
+    {
+      "path": "data/raw/dafif_official/452b08fb-414a-4a9d-b3f0-a4db13f97501_24-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21454,
+      "sha256": "10f2e68fa844f6ea29576d6d5c23cfdfb6c38f8fc1fc45097c01814a2f7ccd19"
+    },
+    {
+      "path": "data/raw/dafif_official/4e73b96f-8c49-4cee-a5ac-f70bdf217fed_21-01-2024(MujairSesi1).xlsx",
+      "bytes": 21285,
+      "sha256": "45c84a7d1d33f7846ec977acf9c5f704ae300d63627d4efeb895ec979997d99f"
+    },
+    {
+      "path": "data/raw/dafif_official/54d54248-5ce9-46c7-b322-80b83533cec3_29-01-2024(Tongkol_Sesi2).xlsx",
+      "bytes": 21592,
+      "sha256": "6bdbe0495d952792e7723d687b16f528fa4758ad8945f4e57475e27aa2f16793"
+    },
+    {
+      "path": "data/raw/dafif_official/69d03498-f426-454a-af2c-dfbe53de07b1_Rekap Tongkol 28 Sesi 2.xlsx",
+      "bytes": 22168,
+      "sha256": "7884f62575954f8de1cabe960629cd36edd0c27055fd3156cdd636c34bfe6aa7"
+    },
+    {
+      "path": "data/raw/dafif_official/6a61fdd1-9987-430d-8e8a-6d10d050ff86_21-01-2024(TongkolSesi1).xlsx",
+      "bytes": 22028,
+      "sha256": "bb5a1a4d4f6dbf37b7e268e5f936348dc08f46aae0144c91e7a1ccdcb84f09a1"
+    },
+    {
+      "path": "data/raw/dafif_official/6e27d536-ffa3-4871-9cb0-d3b9ce054587_23-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21367,
+      "sha256": "bdcfd2fa7369c0699821db53987738f77439b884ed5fb9f1c409343f205e22b2"
+    },
+    {
+      "path": "data/raw/dafif_official/6e9e6e50-de67-4c28-8ffd-fe79860da2db_21-01-2024(MujairSesi2).xlsx",
+      "bytes": 21545,
+      "sha256": "2f490c488f3b94debb0208fa95e1e8b359ce83b3710784af4b77c540cdd30b77"
+    },
+    {
+      "path": "data/raw/dafif_official/71ebbd0f-4389-48cc-b96a-8a0482ca0545_Rekap Makarel 28 sesi 1.xlsx",
+      "bytes": 22059,
+      "sha256": "9aacf1cca5b3bcabea64ab92e22533d144a1288ad33f486f8a72d285713d3569"
+    },
+    {
+      "path": "data/raw/dafif_official/7cf6853f-72d7-4c73-bc63-1b7ac74b8627_20-01-2024(MujairSesi2).xlsx",
+      "bytes": 21557,
+      "sha256": "00b74e73ecc7d967d0e8198fbc13ca1bd1ba64b172d7578ff5b1af762a5dce1e"
+    },
+    {
+      "path": "data/raw/dafif_official/7e0ee50e-b365-4182-a2d8-b2aa49220b45_26-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21617,
+      "sha256": "77cc7f21f2c2a5937acea319aa5514797978449b2041edb9f7ca937fc599687f"
+    },
+    {
+      "path": "data/raw/dafif_official/7f4bd65f-dd82-446d-8a45-ff8d45069e30_Rekap Tongkol 22 sesi 2.xlsx",
+      "bytes": 21516,
+      "sha256": "d99997a04bb2f266aacaf15cfb3af93694fe726cc92ae84080c885ed97562b81"
+    },
+    {
+      "path": "data/raw/dafif_official/8016759f-ecbc-46e0-b6c2-2d4ce6043513_24-01-2024(MujairSesi1).xlsx",
+      "bytes": 21523,
+      "sha256": "0771df10cc4e746cd1d17143ec9543508bed9a71b0b17624e25991836e5a7c0a"
+    },
+    {
+      "path": "data/raw/dafif_official/85c7159f-3813-42a7-9271-92c4ba07b1b6_26-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21665,
+      "sha256": "218c97032e11315298d75121652a2357bcdc7845202143a8fcbf2af944f2f38a"
+    },
+    {
+      "path": "data/raw/dafif_official/85cf67a7-a82e-4b1a-bf18-764136b743ea_Rekap Mujair 22 Sesi 2.xlsx",
+      "bytes": 21689,
+      "sha256": "0b8e13f5e05b6fb0a4bbb9f073a3947b3cf0b1e5e2cc05af6862fef6523e1701"
+    },
+    {
+      "path": "data/raw/dafif_official/8ab2129c-fb1a-4b37-9d78-c968e0f37b0d_24-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21499,
+      "sha256": "b6d03373ff092fb893f1aff6994e18fb409a0e4f2cb7691f24d92c7ef5ce1b5a"
+    },
+    {
+      "path": "data/raw/dafif_official/8dfe8ae8-5e42-4f47-9fa1-64aa9afdd1c9_29-01-2024(t(TongkolSesi1).xlsx",
+      "bytes": 19598,
+      "sha256": "23449843ba67814210ab8d1a8e326f43741fb1f27d389333b3964bf8a980e1ca"
+    },
+    {
+      "path": "data/raw/dafif_official/90a98c2f-5f1f-48ac-9e43-57e483d8819c_Rekap Tongkol 25 sesi 1.xlsx",
+      "bytes": 21854,
+      "sha256": "b81764550e4bb69e5a6f236cd0753bfff7d0c4b79097956004e549f9915ecb75"
+    },
+    {
+      "path": "data/raw/dafif_official/997e72cb-992f-4eb6-96da-1ebba2af8585_26-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21604,
+      "sha256": "f3a14e1efad7d3db72d4ef9cc787b8def583f87bb27859a6389a2717992870ac"
+    },
+    {
+      "path": "data/raw/dafif_official/9b8a0989-2c26-46ff-b080-c79d2eba2750_Rekap Makarel 25 Sesi 1.xlsx",
+      "bytes": 21603,
+      "sha256": "0ade9e063ab23e133489dfeacb09c2f4a6bf71c238e1d564f6b0e2bd03c1bc63"
+    },
+    {
+      "path": "data/raw/dafif_official/9de5b218-3b08-4746-8174-61359ba861de_29-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21524,
+      "sha256": "a1d086d5e7f5911e283d3ba45a1a014f40d09e7feaf72c4d4e5beeb3e292456c"
+    },
+    {
+      "path": "data/raw/dafif_official/9f990e3e-de54-4fdd-81e3-137caaf1a1a3_20-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21479,
+      "sha256": "c08f986ff4cc27d15c10ade58b102d476c0bfc8bb415d16cc6e9a981f9a0558d"
+    },
+    {
+      "path": "data/raw/dafif_official/9f9b4388-5e94-46ab-8177-76178dcc725d_21-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21358,
+      "sha256": "43a49718f907b87930f8579b59d15ac5c0bf0f6cbfe1868f60fb2b646f5f6c50"
+    },
+    {
+      "path": "data/raw/dafif_official/a2c36d2b-615a-4967-8f9d-f142b065d714_Rekap Mujair 28 sesi 1.xlsx",
+      "bytes": 21979,
+      "sha256": "33bb24a7623277312451d0d22acd064d81cb1d3cc3e82907da2601c808536789"
+    },
+    {
+      "path": "data/raw/dafif_official/abfb22d0-0e66-4544-b5bf-26dc629d0b83_20-01-2024(MujairSesi1).xlsx",
+      "bytes": 21264,
+      "sha256": "ba5dd1a3d2fbade13ce0d31c1c7b503f81ad05ed44712d1602dfc6dd883f0044"
+    },
+    {
+      "path": "data/raw/dafif_official/b0724264-b3fa-4804-a844-f8af43976fbc_Rekap Mujair 22 Sesi 1.xlsx",
+      "bytes": 21745,
+      "sha256": "9f51e64d9e3d9a95a72815e06ec13e29e2756434ba2e17b16b229cec87c33bd7"
+    },
+    {
+      "path": "data/raw/dafif_official/b0c50848-3d11-43c3-b963-fe73b202aff1_29-01-2024(MujairSesi1).xlsx",
+      "bytes": 21654,
+      "sha256": "5b9c497788aef7b430a47c9edc26bb27ff6acc7c7b4e7e425e4218fa56d5da0f"
+    },
+    {
+      "path": "data/raw/dafif_official/b51f4e1d-35bc-46b5-9985-71c911c1eb26_23-01-2024(MujairSesi2).xlsx",
+      "bytes": 21282,
+      "sha256": "e3cb1895652ec13451a2fe3810719dc723ff1c8b00e3eec9a4e04e576f1dc398"
+    },
+    {
+      "path": "data/raw/dafif_official/c14da455-9cdf-4372-8576-ad44175c9efb_29-01-2024(MakarelSesi2).xlsx",
+      "bytes": 21473,
+      "sha256": "57cf3c17053ad029df5db50f760bf91a453cfd855dbc937c70f8e6ffb90f0d93"
+    },
+    {
+      "path": "data/raw/dafif_official/cd9999e4-0c25-46de-831f-09a624623a53_23-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21400,
+      "sha256": "02c20798896547a8323ee1d235ec7219a521bda9eb41613bb25ba3972ccdcd65"
+    },
+    {
+      "path": "data/raw/dafif_official/d176bc26-2e82-4186-a755-c19573b9ecf3_26-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21337,
+      "sha256": "b9c45da045457fbecd0deab36ac6e40dda19386f308790f011cc4000c4d0e98c"
+    },
+    {
+      "path": "data/raw/dafif_official/d2307c38-66f8-469d-a1aa-ea29bec2f337_20-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21369,
+      "sha256": "f80ec02727cac0db7d0f382595bf4cc9449742410e919d233abad62cc402f526"
+    },
+    {
+      "path": "data/raw/dafif_official/d512f1e6-8206-4cff-86bc-08aec5c49362_24-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21595,
+      "sha256": "cfe5cd81494244b5a573ee9ecc2dde63b030dc7f24aebc74adf35ddbb6bf6b42"
+    },
+    {
+      "path": "data/raw/dafif_official/d657b8aa-e206-469a-bb7c-d3059eeb5fd1_Rekap Tongkol 28 Sesi 1.xlsx",
+      "bytes": 22160,
+      "sha256": "de310bb20f21138c74916dfd9aaf53f7f760ccf1c7945de9ff2208e841858d0d"
+    },
+    {
+      "path": "data/raw/dafif_official/d7604f83-9ca7-4930-af6c-27a135fc2738_27-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21647,
+      "sha256": "95af81d862f82175e58b33ca78d628ac1933d3ef5f0b513815d62516bfc115e2"
+    },
+    {
+      "path": "data/raw/dafif_official/d85247bb-c39d-4fc8-85b8-45beb657842c_19-01-2024(Mujair).xlsx",
+      "bytes": 27738,
+      "sha256": "f20c1933847c396d07fd23fa4fa8951bef61198de1363368bc63f78100690da4"
+    },
+    {
+      "path": "data/raw/dafif_official/dbe46abf-29cc-4fba-9472-9af590bc83fc_26-01-2024(MujairSesi2).xlsx",
+      "bytes": 21587,
+      "sha256": "50e4e60e476a09b4faada2115f1cf00155a00c13716b4546e226fe95a3abb2c5"
+    },
+    {
+      "path": "data/raw/dafif_official/ded751af-160b-4ae0-a86a-9bcdea37be5c_24-01-2024(MujairSesi2).xlsx",
+      "bytes": 21538,
+      "sha256": "86e4e09679e8880960a79d4e777c9fb8c93fe09889339d8c41ecfc82f9ea0e28"
+    },
+    {
+      "path": "data/raw/dafif_official/e58698a7-7d5c-4662-9179-26f0598ec0af_21-01-2024(TongkolSesi2).xlsx",
+      "bytes": 22186,
+      "sha256": "fcc351b3c7c71c0d60662eb2e684cb3a98f20dc8717bd97bbc6738e44cfed0c1"
+    },
+    {
+      "path": "data/raw/dafif_official/e6b92776-8cfc-40e0-8e4b-a5dfce93c869_23-01-2024(MuajirSesi1).xlsx",
+      "bytes": 21494,
+      "sha256": "555d7b90eca1191365a7b2dafd17ad070fc4c94820c097108d28eedb0f40defe"
+    },
+    {
+      "path": "data/raw/dafif_official/e7b4bef6-15f9-44e6-aa7b-00f233a3fd01_27-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21590,
+      "sha256": "28f1cf0bc905644c1950939c9d6e01964028b5c88659a829d50897519c0c9c88"
+    },
+    {
+      "path": "data/raw/dafif_official/e932f31b-df67-4a83-94f6-1e1c236cbf51_19-01-2024(Makarel).xlsx",
+      "bytes": 27236,
+      "sha256": "062d2c4e901ea8094b9e1ad320542d48edeac0e85c28e88a5fb1228717ed7c55"
+    },
+    {
+      "path": "data/raw/dafif_official/eeefca3d-566b-4ac6-9d9b-fd430a42135b_Rekap Makarel 28 sesi 2.xlsx",
+      "bytes": 22054,
+      "sha256": "5bae56adcfae66a9c2253290a0ebc1f3c245778b9ecac91b5a82073d91ae02cc"
+    },
+    {
+      "path": "data/raw/dafif_official/f2893a60-7129-47ca-bc33-f40f7bb0c1aa_24-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21595,
+      "sha256": "cfe5cd81494244b5a573ee9ecc2dde63b030dc7f24aebc74adf35ddbb6bf6b42"
+    },
+    {
+      "path": "data/raw/dafif_official/fb261343-4757-4a72-9e89-2827d055b1e3_23-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21263,
+      "sha256": "e990b8e4350b97ef3ccac8de82904bad3fa0064ae6960b75ba7020ea5ec908a1"
+    },
+    {
+      "path": "data/raw/external/10C_OP.csv",
+      "bytes": 112915,
+      "sha256": "5b5fcec2be82d97f3855819135caeedd6ce4f94960815e5615b255f290f30c4d"
+    },
+    {
+      "path": "data/raw/external/10C_SV.csv",
+      "bytes": 113432,
+      "sha256": "2e99480f71855f9f76d6011646214da85adf47831d974b86a0b01b4e09414129"
+    },
+    {
+      "path": "data/raw/external/15C_OP.csv",
+      "bytes": 112054,
+      "sha256": "46a5eb0cfe57f08f648f434ba7a72ef9d1f311ef68fffd3855aa9f31313660f9"
+    },
+    {
+      "path": "data/raw/external/15C_SV.csv",
+      "bytes": 112551,
+      "sha256": "51ed6b3d1763bd46892d21cfd58b4007ee974148df884836c17355bf87323f6b"
+    },
+    {
+      "path": "data/raw/external/20C_OP.csv",
+      "bytes": 112811,
+      "sha256": "e72911cc6c2be2e30aba881e2ee8928616ab8abf06469f11232cf68e50cceea2"
+    },
+    {
+      "path": "data/raw/external/20C_SV.csv",
+      "bytes": 107042,
+      "sha256": "cd872d119be493fa5283e0b0c66f35ae9cc41238c9e8c7b55ca641ca09d0cc42"
+    },
+    {
+      "path": "data/raw/external/catfish_storage_stability_analysis.R",
+      "bytes": 27015,
+      "sha256": "8ee67929da707834ff7ebea23d8b48c18fa5bf7c98ee40e10ea2a4539ef72b65"
+    },
+    {
+      "path": "data/raw/external/catfish_storage_stability_package_level_data.csv",
+      "bytes": 45507,
+      "sha256": "ee223130b71977148f75e1b7c2b578c7df99c20aa76419f6e06271aedfd47d7a"
+    },
+    {
+      "path": "data/raw/external/coldroom_actions.csv",
+      "bytes": 5362,
+      "sha256": "8ac92d6c4c628233aa083ef53cdf86e30275ec73d01670ca342922c5dc8b4f2e"
+    },
+    {
+      "path": "data/raw/external/coldroom_overview.csv",
+      "bytes": 73881,
+      "sha256": "faeeaa33ffc5cd0771a9c5218c4c8ab478cec90895627f9ca2b28cfcf34ca173"
+    },
+    {
+      "path": "data/raw/external/coldroom_preprocessed.zip",
+      "bytes": 5819018,
+      "sha256": "0b25c63ea246063991b6a1e7422b50ca1f8ae4abc77450190aa964135811d55d"
+    },
+    {
+      "path": "data/raw/external/india_operations.pdf",
+      "bytes": 211985,
+      "sha256": "8bc1c82e89fd819f3e2d748b911e4d78e36f9be3b5ef72243a51e55dbe928aca"
+    },
+    {
+      "path": "data/raw/external/noaa_shelf_life.pdf",
+      "bytes": 219090,
+      "sha256": "8dcff0e5a4e05d51496884be9906581b092868e5c7d21098a325f35de1df257b"
+    },
+    {
+      "path": "data/raw/external/seabream_spectroscopy_code_experiment.zip",
+      "bytes": 20472071,
+      "sha256": "9763534dce8bcdb56962a07a09bac639e679811fa9c2e218e6d5b679e782f5ea"
+    },
+    {
+      "path": "data/raw/external/spectroscopy_supplement.xlsx",
+      "bytes": 21825,
+      "sha256": "75a3c3a92e7ea7d3903fe265ade8e31c9ed38fea96bd00823921d6ed7b66c0e4"
+    },
+    {
+      "path": "data/raw/local/19-01-2024(Makarel).xlsx",
+      "bytes": 27236,
+      "sha256": "062d2c4e901ea8094b9e1ad320542d48edeac0e85c28e88a5fb1228717ed7c55"
+    },
+    {
+      "path": "data/raw/local/19-01-2024(Mujair).xlsx",
+      "bytes": 27738,
+      "sha256": "f20c1933847c396d07fd23fa4fa8951bef61198de1363368bc63f78100690da4"
+    },
+    {
+      "path": "data/raw/local/19-01-2024(Tongkol).xlsx",
+      "bytes": 27626,
+      "sha256": "e6560cf10a067066f55e1e33c4cac575e623a4f3a9d91405a18e5b9663ae18b9"
+    },
+    {
+      "path": "data/raw/local/20-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21215,
+      "sha256": "c1e9a011ae26138110453f1fdf0fc663e986dca30c88b026f42874eec2cdece2"
+    },
+    {
+      "path": "data/raw/local/20-01-2024(MujairSesi1).xlsx",
+      "bytes": 21264,
+      "sha256": "ba5dd1a3d2fbade13ce0d31c1c7b503f81ad05ed44712d1602dfc6dd883f0044"
+    },
+    {
+      "path": "data/raw/local/20-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21373,
+      "sha256": "2ff0deeda78ccbb9460179d0ec860341e6f8a4d81fbf6ef1699bd35a3734a183"
+    },
+    {
+      "path": "data/raw/local/21-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21358,
+      "sha256": "43a49718f907b87930f8579b59d15ac5c0bf0f6cbfe1868f60fb2b646f5f6c50"
+    },
+    {
+      "path": "data/raw/local/21-01-2024(MujairSesi1).xlsx",
+      "bytes": 21285,
+      "sha256": "45c84a7d1d33f7846ec977acf9c5f704ae300d63627d4efeb895ec979997d99f"
+    },
+    {
+      "path": "data/raw/local/21-01-2024(TongkolSesi1).xlsx",
+      "bytes": 22028,
+      "sha256": "bb5a1a4d4f6dbf37b7e268e5f936348dc08f46aae0144c91e7a1ccdcb84f09a1"
+    },
+    {
+      "path": "data/raw/local/23-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21400,
+      "sha256": "02c20798896547a8323ee1d235ec7219a521bda9eb41613bb25ba3972ccdcd65"
+    },
+    {
+      "path": "data/raw/local/23-01-2024(MuajirSesi1).xlsx",
+      "bytes": 21494,
+      "sha256": "555d7b90eca1191365a7b2dafd17ad070fc4c94820c097108d28eedb0f40defe"
+    },
+    {
+      "path": "data/raw/local/23-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21360,
+      "sha256": "aa5d00262e2686cb68df48589844db88c1dce55ab71befc23f504e0daa18aa87"
+    },
+    {
+      "path": "data/raw/local/24-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21499,
+      "sha256": "b6d03373ff092fb893f1aff6994e18fb409a0e4f2cb7691f24d92c7ef5ce1b5a"
+    },
+    {
+      "path": "data/raw/local/24-01-2024(MujairSesi1).xlsx",
+      "bytes": 21523,
+      "sha256": "0771df10cc4e746cd1d17143ec9543508bed9a71b0b17624e25991836e5a7c0a"
+    },
+    {
+      "path": "data/raw/local/24-01-2024(TongkolSesi2).xlsx",
+      "bytes": 21595,
+      "sha256": "cfe5cd81494244b5a573ee9ecc2dde63b030dc7f24aebc74adf35ddbb6bf6b42"
+    },
+    {
+      "path": "data/raw/local/26-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21337,
+      "sha256": "b9c45da045457fbecd0deab36ac6e40dda19386f308790f011cc4000c4d0e98c"
+    },
+    {
+      "path": "data/raw/local/26-01-2024(MujairSesi1).xlsx",
+      "bytes": 21392,
+      "sha256": "5e158b53b5507b2f670122425a2b7c4eeb7fadfd42b99a08080c3a106d89d6c7"
+    },
+    {
+      "path": "data/raw/local/26-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21617,
+      "sha256": "77cc7f21f2c2a5937acea319aa5514797978449b2041edb9f7ca937fc599687f"
+    },
+    {
+      "path": "data/raw/local/27-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21590,
+      "sha256": "28f1cf0bc905644c1950939c9d6e01964028b5c88659a829d50897519c0c9c88"
+    },
+    {
+      "path": "data/raw/local/27-01-2024(MujairSesi1).xlsx",
+      "bytes": 21487,
+      "sha256": "32d150bbbe2592480f5f295e6b6561c1c7c12b89ef4e4256453d6a91e41117b9"
+    },
+    {
+      "path": "data/raw/local/27-01-2024(TongkolSesi1).xlsx",
+      "bytes": 21691,
+      "sha256": "c96d13568a460760a00b6797b532ee334aa5d13a23866d5e41a04726fbe81547"
+    },
+    {
+      "path": "data/raw/local/29-01-2024(MakarelSesi1).xlsx",
+      "bytes": 21524,
+      "sha256": "a1d086d5e7f5911e283d3ba45a1a014f40d09e7feaf72c4d4e5beeb3e292456c"
+    },
+    {
+      "path": "data/raw/local/29-01-2024(MujairSesi1).xlsx",
+      "bytes": 21654,
+      "sha256": "5b9c497788aef7b430a47c9edc26bb27ff6acc7c7b4e7e425e4218fa56d5da0f"
+    },
+    {
+      "path": "data/raw/local/29-01-2024(t(TongkolSesi1).xlsx",
+      "bytes": 19598,
+      "sha256": "23449843ba67814210ab8d1a8e326f43741fb1f27d389333b3964bf8a980e1ca"
+    },
+    {
+      "path": "data/raw/local/combined_dataset.csv",
+      "bytes": 3246511,
+      "sha256": "4ab867eeac158556f8b74b00ceff4b781c99627fb4391d83cfc39a10695c394a"
+    },
+    {
+      "path": "data/raw/local/Rekap Makarel 22 Sesi 1.xlsx",
+      "bytes": 21670,
+      "sha256": "d92161a89b88791cadba8356744a519c3332a64beec1ee19a45ed64a7d6d466a"
+    },
+    {
+      "path": "data/raw/local/Rekap Makarel 25 Sesi 1.xlsx",
+      "bytes": 21603,
+      "sha256": "0ade9e063ab23e133489dfeacb09c2f4a6bf71c238e1d564f6b0e2bd03c1bc63"
+    },
+    {
+      "path": "data/raw/local/Rekap Makarel 28 sesi 1.xlsx",
+      "bytes": 22059,
+      "sha256": "9aacf1cca5b3bcabea64ab92e22533d144a1288ad33f486f8a72d285713d3569"
+    },
+    {
+      "path": "data/raw/local/Rekap Mujair 22 Sesi 1.xlsx",
+      "bytes": 21745,
+      "sha256": "9f51e64d9e3d9a95a72815e06ec13e29e2756434ba2e17b16b229cec87c33bd7"
+    },
+    {
+      "path": "data/raw/local/Rekap Mujair 25 Sesi 1.xlsx",
+      "bytes": 21742,
+      "sha256": "cff93502b420e98ed8228dd417bee7effbcb24766213a057f810dc0dd5f0dc40"
+    },
+    {
+      "path": "data/raw/local/Rekap Mujair 28 sesi 1.xlsx",
+      "bytes": 21979,
+      "sha256": "33bb24a7623277312451d0d22acd064d81cb1d3cc3e82907da2601c808536789"
+    },
+    {
+      "path": "data/raw/local/Rekap Tongkol 22 sesi 1.xlsx",
+      "bytes": 21728,
+      "sha256": "93ad4c1bc2e382a54c548a0e3c97b29ded751ec6afebf50d62bf3926ee417ff8"
+    },
+    {
+      "path": "data/raw/local/Rekap Tongkol 25 sesi 1.xlsx",
+      "bytes": 21854,
+      "sha256": "b81764550e4bb69e5a6f236cd0753bfff7d0c4b79097956004e549f9915ecb75"
+    },
+    {
+      "path": "data/raw/local/Rekap Tongkol 28 Sesi 1.xlsx",
+      "bytes": 22160,
+      "sha256": "de310bb20f21138c74916dfd9aaf53f7f760ccf1c7945de9ff2208e841858d0d"
+    },
+    {
+      "path": "data/raw/mpeda/ITEM_MARKET_PORT_WISE-DATA_sheet1_2025-26.xlsx",
+      "bytes": 25240,
+      "sha256": "ff048cb02e38754108741dddd5c7eae8d0106b708b5ce4e9cd82e1ef305bb4c8"
+    },
+    {
+      "path": "data/raw/mpeda/ITEM_MARKET_PORT_WISE_DATA_sheet-3.xlsx",
+      "bytes": 75503,
+      "sha256": "e1826d2e69b96e991394474116d7816d7650146126f9c7c1f1df05c267f43922"
+    },
+    {
+      "path": "data/raw/mpeda/ITEM_MARKET_PORT_WISE_DATA_sheet2_2025-26.xlsx",
+      "bytes": 24012,
+      "sha256": "640b5bc72d6aacdb3f2a18e947200b199d2aabb989ff1c71652ea82f377fb61a"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F1.csv",
+      "bytes": 5106,
+      "sha256": "1cb13804627d7cef1234c8d7d7ba0d634f5a993aa1a4abb9cb1777593ab6c1b8"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F11.csv",
+      "bytes": 5222,
+      "sha256": "48ff9969f3c9f60ea16d5098c14deb9ef20b29b6eaa65aa428ce744c708b5f27"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F13.csv",
+      "bytes": 5210,
+      "sha256": "bfbdc406a2145085b154f3ad189303ec62ed5cd718c9c15745944bbfa96e2132"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F15.csv",
+      "bytes": 5120,
+      "sha256": "2cf17e8d059bb3aa13fe5c5415ead215f4d97a5aee8bf8cd4afc92bdeff8132d"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F19.csv",
+      "bytes": 5082,
+      "sha256": "a233d80b0dd5f50a0ced66806e87b5bf34e4b9c38da76cd9533c3c369ac79760"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F3.csv",
+      "bytes": 5105,
+      "sha256": "54ae6959f605a5ad8172ddb5e0c1e360140417d85b38236bfdd252a84fa3ad3d"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F5.csv",
+      "bytes": 5110,
+      "sha256": "95596ed823b470e781a347e5e2b3bbf0fa9e74931e755eecb1720986c8ab84cb"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F7.csv",
+      "bytes": 5103,
+      "sha256": "547071a56f3c424984f90bda5ca4f88564c46938a6b515b5634e9a5cfee97704"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F1F9.csv",
+      "bytes": 5227,
+      "sha256": "1e350f0eb1f65a9789d64e16d296f30537c9d59b4c80b11b3d1619f4af64ebe2"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F11.csv",
+      "bytes": 4985,
+      "sha256": "67dd56bb446b95d715c3d1f3ffe8164b23929c684073ea45afb9a90198d67ece"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F14.csv",
+      "bytes": 5119,
+      "sha256": "c21d03b9b60ec8b33ac8cec7e9c359686f82089240257af0a4fe31da961549b4"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F16.csv",
+      "bytes": 5239,
+      "sha256": "b7f5cacb21895846f6418f0d101339f4ab8e00653fffa26a3dd9c9cf6d6e1d1c"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F18.csv",
+      "bytes": 5165,
+      "sha256": "07b5a1cb365aa7a433bcc822eaa3a5fea17e4e43d3b51a84daa488e7c181c3e6"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F20.csv",
+      "bytes": 5239,
+      "sha256": "c39a6a235939989287bb79aa1b5a71f9f489e3f2ad3b78024080eb3e284532ec"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F4.csv",
+      "bytes": 5205,
+      "sha256": "37c932aab94f7baa991a6a2c7444027733c7f35a23e442f17f9961a11f94f771"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F2F8.csv",
+      "bytes": 5228,
+      "sha256": "6dd19166f63bf72417fc507b9d0fca4c5faeb9793e4cde983a924de2ab71574b"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F10.csv",
+      "bytes": 5092,
+      "sha256": "877f3e06691fd710cf7237d39a02f130c2a299b42ea69e5eff65eca43bd7b3a0"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F13.csv",
+      "bytes": 5111,
+      "sha256": "07e9b83c3586149e9f5da4677ca763795d60a06732fbba6f73df2182ca5bac59"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F15.csv",
+      "bytes": 5091,
+      "sha256": "26e563129887343e1f4a9159492e5edb27e487419eed763ea73feaf43875ce9a"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F18.csv",
+      "bytes": 5239,
+      "sha256": "c6476c211f34bb74868e818428e5cf74eb195dc1192f5a1f68c76b84757b1a5b"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F3.csv",
+      "bytes": 5107,
+      "sha256": "958dc4e44668443e2478a60397d5f1aafa5fc2aed752c6159978effae279fc4f"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F3F5.csv",
+      "bytes": 5109,
+      "sha256": "ac7bcc3f68f3ab0d1e2a0e05015b14cbcfa0aa402352da11a6efb16452c0dbd8"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F1.csv",
+      "bytes": 5239,
+      "sha256": "9d2d9f0459ea9f4fd90f83fd24fbdd9de8fcec8f75393495e871b14d7c0d0155"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F10.csv",
+      "bytes": 5239,
+      "sha256": "bbcaf92853a947cf7f465aaa245ba8fa0a0a45052731007ad06657e3fe60e809"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F12.csv",
+      "bytes": 5164,
+      "sha256": "6c35137ca22519bffd071c26bcc6a86630f2c7ee76f3c95e5c343b7d5c16dabe"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F14.csv",
+      "bytes": 5194,
+      "sha256": "df3beada4d09b4a95ac5d2c8063c2f608a694b37f9a45cbd094e9daf129f706b"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F17.csv",
+      "bytes": 5210,
+      "sha256": "b5102ef78fdc699fb2898fcefd32948c397eaa7a97a42e951e145c401ca28679"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F3.csv",
+      "bytes": 5239,
+      "sha256": "2b7710a7dbfe88d6da064bdff8c4ed27b7df1ac9c9b004c88745d52e273d48ca"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F5.csv",
+      "bytes": 5239,
+      "sha256": "61869ea2ca05c4cd35ef4cf1d5ba30fcd41577f4a7efc918e059cbdaada384b7"
+    },
+    {
+      "path": "data/raw/trout_selected/day1/sensors/20260509F4F8.csv",
+      "bytes": 5239,
+      "sha256": "d765e8bd49acf95772983ecb7c4e924ae074eb7fe54d9630c2658d369a4ca957"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F1.csv",
+      "bytes": 5238,
+      "sha256": "c9e79b5cd32958fb722131d8c0662a92a6af7fa99658357b7f70eda0e7a8f566"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F11.csv",
+      "bytes": 5208,
+      "sha256": "f4cd9e6ac4c4c09b79ccb130fb120acbca3e0b2561b474d9467a95498c4f59d8"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F12.csv",
+      "bytes": 5239,
+      "sha256": "b4726915104205c257d7cb540ea9cfd1ada1428731de7829b31763da7032e986"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F16.csv",
+      "bytes": 5229,
+      "sha256": "4678d6190ff60ec1b1a64f2cc2308d07eb70c60b70cde2f5db2f70bd8e11c1bc"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F4.csv",
+      "bytes": 5239,
+      "sha256": "3666343a16281b3b179ac4fde479ec27d4a37210dd7d5d02c5df87dd1e6b0f0e"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F5.csv",
+      "bytes": 5239,
+      "sha256": "efced5945aadb3e3cac938b1c5e79a290697b3fb5fe5fea94e7426c088d51ffc"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F7.csv",
+      "bytes": 5239,
+      "sha256": "01938a4fdc4462f4be21268a1f2e437dc8160cad6ceb5e53e5929f79ec1c5ceb"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F1F9.csv",
+      "bytes": 5239,
+      "sha256": "29bff28cd8d8eaa8a7fdb891a544937d527147bbe5650726dab04be7412a8823"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F1.csv",
+      "bytes": 5238,
+      "sha256": "08232f595e6e9f2863c0fa9b30efada738cd25833e016abbd5850ec3d9c41775"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F14.csv",
+      "bytes": 5239,
+      "sha256": "5f3dead2ec689df9e641f375b6f9093fcc88c216fca3d4329b89310ec9838ad4"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F15.csv",
+      "bytes": 5239,
+      "sha256": "4c099de6c9a33eb242dca3cc75442a475acd369aeec9fb6211d0793750254551"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F17.csv",
+      "bytes": 5172,
+      "sha256": "c8bf07f9e1aae885071d961231160fdaff7a8a4fdbbd5d1c719098230b60bdf7"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F18.csv",
+      "bytes": 5239,
+      "sha256": "4f6e9e12282613f168507b0e98e8260d96b90c78e9ee570fe8d8c62b2f3695f9"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F20.csv",
+      "bytes": 5226,
+      "sha256": "753a5cc8ee6f06d130016b30fb605280a9cfdc0d9cf3ccd51425f1987f590cd6"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F4.csv",
+      "bytes": 5188,
+      "sha256": "e2b111af443581219819feab57d71d1972ea153eeb66f00c5d81af0c8564f945"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F7.csv",
+      "bytes": 5239,
+      "sha256": "f5670fc9aef7bcea02acfa555feac1646c92f0001331fe3157a81c26555f7f46"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F8.csv",
+      "bytes": 5239,
+      "sha256": "f3320f22e1278b582de9c91a4e7dddf00c39e7fb0501fb4170bb11e426b100b0"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F2F9.csv",
+      "bytes": 5239,
+      "sha256": "068f2d4bd1dad958927226811d399ae79362abc64975d34a4f7ac6e43c8290b3"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F3F1.csv",
+      "bytes": 5145,
+      "sha256": "a821a179cd3814ec3ee0ea3ed6d4c16b57a7ac5a634a3b7b4f0b15bf2e2084ea"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F3F13.csv",
+      "bytes": 5217,
+      "sha256": "b8e39f24afc9bd503fff4377c5e65b7b2114ff9000ea4853eb6cd44344bfd3bb"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F3F17.csv",
+      "bytes": 5194,
+      "sha256": "13f24f745aecc9b1b338535663187ef9be5f7717a4c765d785672b6c99add041"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F3F18.csv",
+      "bytes": 5190,
+      "sha256": "e3105b0159d9aa92fbda9f8815486907a1855c5ae4df7ee419bd25738336ffb3"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F10.csv",
+      "bytes": 5138,
+      "sha256": "ea7449270a13fa51e305f5e0c4c4ebaf8cb1952c494ac465a893039e83b899c5"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F11.csv",
+      "bytes": 5220,
+      "sha256": "901461513e81a17d56fb62eb57957b0eb4c9a0626c788d2783efd06b4926d1d4"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F12.csv",
+      "bytes": 5239,
+      "sha256": "525114ff7fc9d99047c0241a3c4ce6a6c09a4eae0bda88a45f422572393deba7"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F14.csv",
+      "bytes": 5239,
+      "sha256": "2747e88fa656045372a95361c4a422111e88948bd988285cb31dc08c8c6d031c"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F2.csv",
+      "bytes": 5239,
+      "sha256": "6074bd8129127c23206e74a9204ab3c7b8a4ee4d1904015b6683f86707b6ffff"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F3.csv",
+      "bytes": 5155,
+      "sha256": "881b4f6c2e927547977de5ced3bb0f507dd23eada293b4ce18a4908ea58b4146"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F4.csv",
+      "bytes": 5150,
+      "sha256": "3928e978188f32f58516c3edd9396744373bc016f980ea7f862c99f154f2b193"
+    },
+    {
+      "path": "data/raw/trout_selected/day2/sensors/20260510F4F5.csv",
+      "bytes": 5210,
+      "sha256": "6b5caedd1e1fff483806cd407b333fcb2e63c4b5f5c7b59edc86929ca4d5afe7"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F1F10.csv",
+      "bytes": 5214,
+      "sha256": "82b0913ed6b69251620554cedd0d93f6fc5b6daad862d97b2032f4380e17193f"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F1F15.csv",
+      "bytes": 5239,
+      "sha256": "947d0f0c7b07d7db676e14ec6235c7474268b67a64d4a0f058263147016942eb"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F1F5.csv",
+      "bytes": 5116,
+      "sha256": "bdcceabd39bad4333699bbcf028840a5555be788e75eb073ec157bf4a706a071"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F1F7.csv",
+      "bytes": 5071,
+      "sha256": "e83d6329537d40eb08a8cf710adeceb12e85e36ecf97b22599fdcc68a6a077bc"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F1F9.csv",
+      "bytes": 5239,
+      "sha256": "4a1f71211219909c18b27825512514f4ca34eed3a57e97f08455ab35eb26aa98"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F1.csv",
+      "bytes": 5119,
+      "sha256": "8d07a2ba65080c427349a5b3c3a7b4c452a984046b18663b7b1533442b3428bd"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F11.csv",
+      "bytes": 5198,
+      "sha256": "4b6c6a2bc52a86cbe0aafd7e5fc585dca850fb17b6c4a5752c4d98f57d881d44"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F14.csv",
+      "bytes": 5239,
+      "sha256": "160c815c2f1a338469846204e38c1a8f395a32c13018bfba36921df3e4ce64bc"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F15.csv",
+      "bytes": 5117,
+      "sha256": "d9ba9c59e39dc3ee8543f56bee30d8eedabdf49ae3114453cc8fa712e0b96337"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F16.csv",
+      "bytes": 5239,
+      "sha256": "8a751a2090d55a920d5217d1cde019c590333abe4d698a8c5a9155f47f949e51"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F17.csv",
+      "bytes": 5235,
+      "sha256": "539fe05f1761d3f311b5a6ad4d9c764889a9a0c1d54d50f89d1b57fe3fadfb74"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F20.csv",
+      "bytes": 5230,
+      "sha256": "0691e5e9afd7c8387b0f40326485b6a62f2813155870d12d85ee83c9f3ce5a91"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F4.csv",
+      "bytes": 5024,
+      "sha256": "593ffed9b935269567d76fbb7c557896c757aceb05d6bbc83cab2b07a2539486"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F7.csv",
+      "bytes": 5190,
+      "sha256": "21181aa2db804d1911d43ff9d60ee5228b0389ab913bbc2e0eee99ab61c302e2"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F8.csv",
+      "bytes": 5093,
+      "sha256": "ef3cad06f5dc519915f8d17e7a95c0ed1881c7f889de68c5dbf4b8caabdc32bd"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F2F9.csv",
+      "bytes": 5239,
+      "sha256": "c5a4a5b494cbcbe73d7c6215c57eed9d8c2dec41769c2c0b76c7efcbc1af9328"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F3F10.csv",
+      "bytes": 5239,
+      "sha256": "a07e203ecce836ae8aa51676fb2640d532a0dc2267812fd72c78ce888ae730a0"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F3F18.csv",
+      "bytes": 5204,
+      "sha256": "79aadbdbd6688219f4735167e17bb7145694ff734d1b50a72e2a09e0dd285ea8"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F3F3.csv",
+      "bytes": 5239,
+      "sha256": "884e8fa8e336f7ab5309f70c771d1cc46be77767dc7200cdce6e085aebf7328d"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F3F4.csv",
+      "bytes": 5239,
+      "sha256": "ac0ad62ef2b900ea0ba244d4413d8599f83e6b62443a3d4ba8d9340ac3543312"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F3F6.csv",
+      "bytes": 5100,
+      "sha256": "fcb4080bdfaaffa6d60cd729ed7072c0da46d9cf2786996eff871e117a5640cc"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F11.csv",
+      "bytes": 5239,
+      "sha256": "a03134e38ff0e7204e8bf6a8df5236a5689c4ec60594f013fe8b32b181b7b0c2"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F13.csv",
+      "bytes": 5182,
+      "sha256": "fe78e017171a5f67a3e217397b829e11ccc937bab4bd073d99ea1aaede9254a9"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F14.csv",
+      "bytes": 5239,
+      "sha256": "3717fdb7ca99ef9a65d6a8eaca0512bc66756f648a5754f87566c37bf24bd2fb"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F17.csv",
+      "bytes": 5119,
+      "sha256": "49d3e678c0977b74fc54e03f58afbd209fb42cc8d7528d2390f48ec616aad1a0"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F3.csv",
+      "bytes": 5200,
+      "sha256": "1f96f23fce42b3f7a5173700b9b060b9602b4e3b3895c980bf5f3665d8d73cfe"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F4.csv",
+      "bytes": 5233,
+      "sha256": "02d34c045a271773fd24b890347c11e1a3e39309987b4d1c7273d4803999cf61"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F5.csv",
+      "bytes": 5239,
+      "sha256": "4ee500130b9d337a1f63edf8d968671d104efe130335643ec6c840b92f0ee3fc"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F7.csv",
+      "bytes": 5239,
+      "sha256": "aaac2a5dd61544bfe3860b23b33f9b6f2f9b320efd1f4a37e384b7de536b73dd"
+    },
+    {
+      "path": "data/raw/trout_selected/day3/sensors/20260511F4F9.csv",
+      "bytes": 5239,
+      "sha256": "ba64be12d34af98b66034d3719dc122a73ae27fc7726251671ba1540fbfa2a83"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F12.csv",
+      "bytes": 5055,
+      "sha256": "8e2cf14a4e39cae9484a0e06aed420b329395fe363e1f9b95de886899449517b"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F13.csv",
+      "bytes": 5177,
+      "sha256": "ba485150439e240dde94f8565748f4c3c9e66bd1fb23e04bada20207d2e041b5"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F16.csv",
+      "bytes": 5055,
+      "sha256": "59c137ea724358a8a6de9c95e24cbfee4dee00a1c12dd0df588dcab6f4eb7440"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F5.csv",
+      "bytes": 5029,
+      "sha256": "5ae20230c30cc6cfa39ef2f373e09ab06ea1bc9ce1ef22bc526e95bdec9178eb"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F8.csv",
+      "bytes": 5119,
+      "sha256": "0bf4c5e707f11821f87463e3dadcfffaf190022544d41c80f9b911e955f271cb"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F1F9.csv",
+      "bytes": 5118,
+      "sha256": "3fae0a938d1634466b69a44d1cf485281f0d827767f812bd1826a48d78c4a018"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F2F12.csv",
+      "bytes": 5119,
+      "sha256": "cc9134d7b0d7c70a9e623af5c3bbe8f99c3df43c4d94bdf09f63dbc9b71361ba"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F2F16.csv",
+      "bytes": 5104,
+      "sha256": "dd9167a42b266bc5fe1af0a6125a3305c71ca2b0ac01a10b78d6ce6a6efe5773"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F2F20.csv",
+      "bytes": 5119,
+      "sha256": "32207ee646610536b096a684a143334832e5b7143b8e60eab53da33204ed11af"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F2F4.csv",
+      "bytes": 5119,
+      "sha256": "5ea70f384b55fe0d6f8f6d7fa03ccceeb0bd96ad2aace681a258cd40f0811aa7"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F2F8.csv",
+      "bytes": 5225,
+      "sha256": "d1ac2b9e28ababce7866e3dcef518f8736d285aa014691a043af08f2666b18c2"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F1.csv",
+      "bytes": 5017,
+      "sha256": "cd1994164c16a805334c674c798295147c157206e38a2a9752c31f85f43dbf9d"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F10.csv",
+      "bytes": 5107,
+      "sha256": "893dd8f9ec49516f57e2f79141ddff9fb0b9ed9f27576a72fe448e2ab35990a0"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F12.csv",
+      "bytes": 5119,
+      "sha256": "bd2c2dfa15c1290f7c5dbdd2cff440c26bde6f037f422bfe3565f445701122da"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F13.csv",
+      "bytes": 5119,
+      "sha256": "e40fbcbdb1beb2871a5fc02b5dc7944927c0f0b821231f26cbe6662677840cc7"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F15.csv",
+      "bytes": 5111,
+      "sha256": "386a189d5e454e15cfbc40d3e0dad4a16d7873d84446ef7aa7478a630c901abb"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F17.csv",
+      "bytes": 5119,
+      "sha256": "8a21d2e91459ed5dc76bda784a2791e11ccfb0d8663830dd5015f03dfce99c49"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F18.csv",
+      "bytes": 5106,
+      "sha256": "b8c5a697b2f99e890f868b1c3d3d5d56d132ae57fed428b8a5c01eaef9b84a5d"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F3.csv",
+      "bytes": 5119,
+      "sha256": "b3c52f16ce1d70046c862611de23f0d930e5f94e03cb328510af61fefd655344"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F5.csv",
+      "bytes": 5119,
+      "sha256": "cb28f47d04231038155608c0db129fc93e51081fedff90c404834b886d922917"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F3F6.csv",
+      "bytes": 5119,
+      "sha256": "de9881915c3414c220bd90ded161c5f458579957fb74089274db6737d2b5c9e5"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F1.csv",
+      "bytes": 5119,
+      "sha256": "4ce6bec39468b6dd049dc2a2cf081b64d2697ebf4b904e94049486649e17676e"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F10.csv",
+      "bytes": 5119,
+      "sha256": "0f400be3240b3fd079399ed7ee9c0d24f898f060517cc036d8dcb7d033e777d4"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F12.csv",
+      "bytes": 5119,
+      "sha256": "488005c63c21614e141921fa9c7f0099d79e081e7bf5fb4631232dbc4f06f933"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F14.csv",
+      "bytes": 5119,
+      "sha256": "846a6db8c262dbea84da4dcbc1a4b67e1d95b57abfe37f50db42263e9a27a837"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F16.csv",
+      "bytes": 5119,
+      "sha256": "6f8a35c21018bb919df3da33ac08f17be69cfa552e8bfd7fc4a77c6d2eab9147"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F20.csv",
+      "bytes": 5119,
+      "sha256": "6d582368f468fd0e0309651571e6e93603cdc588396aaf072a6db478febe7ad8"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F4.csv",
+      "bytes": 5119,
+      "sha256": "f5b8db110796a686f507a62494a96af50e2ecc5af359de03bb4d16538dcf35b0"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F8.csv",
+      "bytes": 5119,
+      "sha256": "8556b36a18a103b78f6e43e9c0849f9bd2807024ba76e40c8db15e71e13f4e57"
+    },
+    {
+      "path": "data/raw/trout_selected/day4/sensors/20260512F4F9.csv",
+      "bytes": 5119,
+      "sha256": "de098b0cf10b49bd846ef52d734742adc4c68c9a2419c2ac05b28094dab49c45"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F10.csv",
+      "bytes": 5239,
+      "sha256": "28ebbe112886a04956a0c6d074225d2ce16b5c45816a9869b022b4a4bcdb1641"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F11.csv",
+      "bytes": 5091,
+      "sha256": "823dafe2b4b346e19da5ac88be029c0a5fbb54dece0c6508309d813cd3fe9b19"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F12.csv",
+      "bytes": 5119,
+      "sha256": "0b3f7a6829c17fc723592875c4e299ffb74677ab5c1a570bb1c232f6df48771f"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F14.csv",
+      "bytes": 5119,
+      "sha256": "0f72164200740acdc98f3866836b4abcc4a3663a81cecde06301970db6a9144f"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F15.csv",
+      "bytes": 5111,
+      "sha256": "a7d7a2f039315d37668edd07ccd5d7d6ba0f4dfbdc9a42e5d41c46fe708d2145"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F16.csv",
+      "bytes": 5239,
+      "sha256": "325a02dcc354b9bac53b8744d5c8cc829016f157f0fe8a5f63b450b319050568"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F3.csv",
+      "bytes": 5071,
+      "sha256": "42fb0be5c54fa275009dbd322f7980f58edd847150863c79631625cd6c9bacce"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F1F6.csv",
+      "bytes": 5239,
+      "sha256": "0c08da2635e16e8931c7ff20bff638946550073ca4f73a078c3e1c479afb52d9"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F12.csv",
+      "bytes": 5119,
+      "sha256": "24c4b468c608e2113026727c0d76a359d5e220604c3fbe78988e9f0c1233d979"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F14.csv",
+      "bytes": 5239,
+      "sha256": "6c0bce97036796c39672c3bd91509663fb25eee4732c9ab2b6dbf77faee21212"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F17.csv",
+      "bytes": 5229,
+      "sha256": "e8f514171dd62318bd1f1f9e25c38fbefcce09cd7a8d7fdb9c739c71468a3518"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F19.csv",
+      "bytes": 5104,
+      "sha256": "c7151989030fbea449ba22cc8d2fa9be6e9f53c6c24162ae256fd3c322be4d7c"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F4.csv",
+      "bytes": 5239,
+      "sha256": "678ebf11b7bc0e08e6ba0bcd7a83ed1ac0e822883f9026abab3bbf7daaade4b6"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F2F7.csv",
+      "bytes": 5239,
+      "sha256": "dff85960c4b4b58034c555f8cebe2a46be6bccb6fe5cbcd2e91052ba0991ae6e"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F12.csv",
+      "bytes": 5239,
+      "sha256": "a6f1b6dfe0c090a501335536d5f5ddcbc52ad56f30685c68e31f113343c5b6d3"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F13.csv",
+      "bytes": 5224,
+      "sha256": "3d865f818824e1fad2b9c63939947d6019837192fd2f3ed490c3a6554790e451"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F17.csv",
+      "bytes": 5119,
+      "sha256": "a84c515edee52bbd5e40c76eb541f2745363a98248e8ac8ead3b4dd88062b249"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F18.csv",
+      "bytes": 5239,
+      "sha256": "c53583c2f55dedb33accc24e2e1eaf220033f989ba07a7c415c50caa6ab9ef74"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F19.csv",
+      "bytes": 5102,
+      "sha256": "d7b0bac969f42622f0abf1e8f9c9ecdf2f270181a1cf12eb158fc8c54e7ef1ed"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F3F3.csv",
+      "bytes": 5098,
+      "sha256": "4837986ccd80fe4e43760a57e278f02aba3fc105d4b0833c9f80ee5b1a0e3a6e"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F1.csv",
+      "bytes": 5219,
+      "sha256": "131f5286d62ad294e3926bcd3eda86c24f0843ff1aa6a44a0721984005c056cf"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F11.csv",
+      "bytes": 5239,
+      "sha256": "f02fe8a84c552e23d19b2f49ff2ccb49748c4ae20fdc1725dd5a3a74eb335d62"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F13.csv",
+      "bytes": 5239,
+      "sha256": "e38cccf53d5ca5973dbc30b83ea99f156dbdd7c100357c1871a30d311adaf42c"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F14.csv",
+      "bytes": 5239,
+      "sha256": "10d133ef564164fad1379236cd992e2e51d91023eab50366cb0adfd7eb63ac40"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F16.csv",
+      "bytes": 5239,
+      "sha256": "657564f3bf694571a3d585b431dbc461b5ed35fc4dc298e5896f5edea40711e6"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F17.csv",
+      "bytes": 5054,
+      "sha256": "e3d113b0b456d736e12122069819c14e47159b71ec5f616f6ebb140d1ea85a65"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F20.csv",
+      "bytes": 5239,
+      "sha256": "b314bc2f82079e6e2ded5005541e38d59df904dabe1f22b49a1e6e541b5aa8f0"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F3.csv",
+      "bytes": 5119,
+      "sha256": "fa1cbd00a4efa369df3cb17f87fa35845fef47925863e3839c1c120332bd4b3c"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F4.csv",
+      "bytes": 5211,
+      "sha256": "0f73f0b4ae1eb10b6ccb94576633f16785864372a2c234e720d8c2121f5e41cc"
+    },
+    {
+      "path": "data/raw/trout_selected/day5/sensors/20260513F4F5.csv",
+      "bytes": 5039,
+      "sha256": "5c097ce0c1af7efe9787c70e2c55c4417f337edf2552b7eabb409b4436fb22cd"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F10.csv",
+      "bytes": 5359,
+      "sha256": "0a0c768ae6f30157ff8cfc2d6339297875ca4b17b77c185b2110b9c95944fb93"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F12.csv",
+      "bytes": 5359,
+      "sha256": "266ac54b34ef69722f0637687dcdf1fa056064ccffdc5413fa3a831cbfd6fa30"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F14.csv",
+      "bytes": 5359,
+      "sha256": "b960c8e78fa2edb5671da97183a8bdde8f16b4f0682d6f393800f95ae7eea03e"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F15.csv",
+      "bytes": 5359,
+      "sha256": "d6a5f2c755f3093b8c81243ea4d20e7c3a696b03c9d7a05347797fe0b1090421"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F16.csv",
+      "bytes": 5345,
+      "sha256": "6d427cef0223c8410e86a7310cfd2df9a55914d2a6dceaa4184d81c2a7c007b0"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F19.csv",
+      "bytes": 5359,
+      "sha256": "c7907c35b4988db60a460d5cf30dcb4752d574f48b49fa5249c1e64d08d8075c"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F2.csv",
+      "bytes": 5359,
+      "sha256": "45878c3dd3663b81d13cc3b7af7be23795fafad4b2ae0bdbf364f84444e761a8"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F3.csv",
+      "bytes": 5450,
+      "sha256": "9d574f24ce48a4e372ce114e4408bf60cd6686419bb163bc533befe5fbba5c70"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F4.csv",
+      "bytes": 5467,
+      "sha256": "6e4a957675c22743ffec424aabcc4b21d9331308ceec8a5187dd54b0b74e4db5"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F1F7.csv",
+      "bytes": 5359,
+      "sha256": "a1be159353a0ae72c1354bad313d9cd70b1f6e3a8a5eb51bb6dbe30edbc4a857"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F12.csv",
+      "bytes": 5359,
+      "sha256": "c1c01e1779ab9a29e4d305ece6647ea28d00062c44c89e5f9daccd1c034eb559"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F16.csv",
+      "bytes": 5469,
+      "sha256": "dd548dce0367244e9b58f76276bc9fdb17b3fe1457ebf330031dda972cce4992"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F17.csv",
+      "bytes": 5359,
+      "sha256": "28a70268e2bcdcd052018b8cc425350806f579d224bb8d88c4cc598ff900dc95"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F18.csv",
+      "bytes": 5348,
+      "sha256": "e65c92b2bcebfb9b55ea92491886e2769b5ec40beb782396c90f9bee3a4f9e0a"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F4.csv",
+      "bytes": 5359,
+      "sha256": "a881f5947b5c76a5df25d7a5274a0823a0a86b202250bf60876db10fc42c53fd"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F2F7.csv",
+      "bytes": 5359,
+      "sha256": "3ea354f3009cadcea43af25f12e0eca50834f013c9bdcfb9b119b327c1ea28ad"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F10.csv",
+      "bytes": 5479,
+      "sha256": "20531eefc8ed9d4dfec2d8891e72a19dd9888979e31e25fbaaf7defe8c712e8b"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F13.csv",
+      "bytes": 5462,
+      "sha256": "2200d4652275686a6215c575af567ddc8bc17c2f13108c219b96d413692605b2"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F18.csv",
+      "bytes": 5321,
+      "sha256": "5f90369f77dd0313274428cb2af89edeff6ef03be7f9f99e9eabbba0468b5d5a"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F19.csv",
+      "bytes": 5359,
+      "sha256": "600a2d67086b12cb82a531ccac3c7b410f78b57e457fea9b2dcfaf413d4087b3"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F3.csv",
+      "bytes": 5359,
+      "sha256": "2ed206529f07176bd43e3cba3920e43b0f0e81275964128fd73240e367d5b4aa"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F4.csv",
+      "bytes": 5359,
+      "sha256": "03c57c374e199a803bfa4aeeeed1f7e0554634ddd24fe787cc646a53c4830b9b"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F3F5.csv",
+      "bytes": 5359,
+      "sha256": "ba13c1b008bc7592925a19f50bd98b46ea0d2b2c4c757b3b05858f9a8896643c"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F1.csv",
+      "bytes": 5408,
+      "sha256": "2ec14f37e0d66bfd8a1ff687fe13fdf92d3fcad6d2d0ba0d12f92ed06f94b901"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F11.csv",
+      "bytes": 5479,
+      "sha256": "55fe553deed290422723d138b8a68c4f204fa9e704e1215680af755625074d9f"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F13.csv",
+      "bytes": 5359,
+      "sha256": "6f8e9adb0aa8cb128132936407f53aab9267859f4f44e1ddc895080b6d6edd11"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F2.csv",
+      "bytes": 5359,
+      "sha256": "0b128649b254d4a3736c43aa48ade7b392ae09b00b9a4af8a90ba0d1e7404edb"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F4.csv",
+      "bytes": 5319,
+      "sha256": "0c8977d18d96c34715891ccdd2783b632e15545045c6f97f190881769fb35ac2"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F8.csv",
+      "bytes": 5359,
+      "sha256": "964421f605fc1b51111d407eae93d24a48af1636dfaf26dec04a6e57490fadef"
+    },
+    {
+      "path": "data/raw/trout_selected/day6/sensors/20260514F4F9.csv",
+      "bytes": 5359,
+      "sha256": "b774d3d4adc45f2baf299917b5d2840f4efff36020551a9f8dc91c89a017f6aa"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F1.csv",
+      "bytes": 5359,
+      "sha256": "be9e192f45491d0951f445b91e5826b9c89ed6e9e0171ed1dc920e3acd0cc73e"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F10.csv",
+      "bytes": 5359,
+      "sha256": "6e8bd92b0cdabc1db6991015f9a88496142e6c7ddc9c1202a0c78488b5e12c7e"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F13.csv",
+      "bytes": 5359,
+      "sha256": "8225d4f368e63830a9c3b37de1f95281a7039580a5c1cf79809724536aad5dd9"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F16.csv",
+      "bytes": 5359,
+      "sha256": "d095e9cee292102a13b1114a59e9d407d8c4332705c2bc1ea0d563ba87ced671"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F2.csv",
+      "bytes": 5305,
+      "sha256": "e9908fe9cba1075abb288e9913bff8265e5136c63e16c54881244b9629447c5b"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F3.csv",
+      "bytes": 5359,
+      "sha256": "f85ee1317aef0d187b7b03d5e1874eae444571f62d2b1441b7ece848f3f8ecd9"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F6.csv",
+      "bytes": 5359,
+      "sha256": "c4583f42b13dde8dce18d6013bb55bce79f9c1184dc65a1d1322422a2b832a84"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F7.csv",
+      "bytes": 5359,
+      "sha256": "f88758151cb7cf2e66c11ee366223d358a7ccc110c89c9dd37a7036900062b88"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F1F8.csv",
+      "bytes": 5344,
+      "sha256": "788a2a1101cdbee13025c7e104fe4a30de7161d6db095d54b624a95d7260bcaf"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F1.csv",
+      "bytes": 5359,
+      "sha256": "71e3bcf566521da8ca8c575fa498a9f518c62f353358d08f10bad689ea23b5d8"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F12.csv",
+      "bytes": 5359,
+      "sha256": "b991f6f077c285763187158fc5aff1c38574d99a2c2a9993253ee4052868e770"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F16.csv",
+      "bytes": 5359,
+      "sha256": "555216897d81789fe1c9700bf6d564603169984ae996cb84ec4fc52e47c99ba5"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F17.csv",
+      "bytes": 5359,
+      "sha256": "2d9ca0bd2e17fbd034447fc66ae81a79a45a9c7c0a65d62b0557a52dc7265cf8"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F18.csv",
+      "bytes": 5340,
+      "sha256": "c1166f8506cb9c276eee706f20cfe7d79407fbdf75dd388555afeb176ec759d7"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F19.csv",
+      "bytes": 5337,
+      "sha256": "1374a7115460abe6beda15832bea4674a26805e5d5a4ee11d6349e61a3d0b27e"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F4.csv",
+      "bytes": 5350,
+      "sha256": "1b63667df05895a8ed761f68bc677c4726e3933569705ccdfe90c3d0defdc77c"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F7.csv",
+      "bytes": 5359,
+      "sha256": "323952c45bf9e616f08aaf17a9abad3b9aa8bd9304a8f82941857499cbe0965b"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F2F9.csv",
+      "bytes": 5345,
+      "sha256": "7928faa8bcbd812537f1ab84482fa3a0338da5e4533a2b0d35f7e91f0bc27ac0"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F3F12.csv",
+      "bytes": 5359,
+      "sha256": "1f2f26caabd6b8df59c88677671b3c09d92bde31c1756f5b4e934804064bb0f3"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F3F19.csv",
+      "bytes": 5339,
+      "sha256": "c3e0eab1a1661c6c296aa1c60fef2732965b9462cfb7ed41e2ad6be4d5d5b568"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F3F3.csv",
+      "bytes": 5346,
+      "sha256": "07fbbf1abc50748bab6359216c20418bb24886e46314fe1708a70d0625d2fe50"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F3F4.csv",
+      "bytes": 5359,
+      "sha256": "9c0568331d63f4d48bd7364d8f9caea7d33ed5160fdb0bcb1bac65277db13292"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F3F6.csv",
+      "bytes": 5359,
+      "sha256": "0a0132c92f6fe6e48ecf000d17631477fb8415b478de98d73784a77ed3a32782"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F1.csv",
+      "bytes": 5359,
+      "sha256": "cfd77338a5e04e582cf51535ef8390db9d97d21b79e78dfbd718eed0fe7dd777"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F12.csv",
+      "bytes": 5359,
+      "sha256": "da40ee5591313b4bb906f4b4e68e7ddcf9d1f45cc5c23acebde4594e30ac7c44"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F13.csv",
+      "bytes": 5359,
+      "sha256": "8449006390bf942e5a49d418bbe625ae52075bbd4d97f521f554c863890ced32"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F14.csv",
+      "bytes": 5359,
+      "sha256": "0253fd169813c43468130e4559089d9a08fca636ff13d4de66cae2c3ca5c8858"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F16.csv",
+      "bytes": 5358,
+      "sha256": "1b513684f78b9580bd2e5c2fdbd6250038c7c9157d543fe5384d649606e0d94f"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F7.csv",
+      "bytes": 5359,
+      "sha256": "4afb5e79153f551d6c935dac0a081167eb6d4be4c8b6ce42ff9ecb8c877c5a5e"
+    },
+    {
+      "path": "data/raw/trout_selected/day7/sensors/20260515F4F9.csv",
+      "bytes": 5359,
+      "sha256": "e53094d2a3fd0329acfd017562b94c2263842907ac9dd1200f85da926ad38436"
+    },
+    {
+      "path": "data/raw/trout_selected/image_exif_metadata.csv",
+      "bytes": 91856,
+      "sha256": "067d402320398b9c7cda6521ff130056d28d22c6a747fdc0800546b53196576f"
+    },
+    {
+      "path": "data/raw/trout_selected/multimodal_fillet_day_matrix.csv",
+      "bytes": 6041,
+      "sha256": "d500b5f50d30b6b5a1291624bab7ab9bbc78b9063eab6b3205303c1745897bbe"
+    },
+    {
+      "path": "data/raw/trout_selected/README.txt",
+      "bytes": 7931,
+      "sha256": "4777f4be83c76638f99479cbb637d7ca841565cff5d1c9fda842017bc3094388"
+    },
+    {
+      "path": "data/raw/trout_selected/tvc_individual_measurements.csv",
+      "bytes": 3116,
+      "sha256": "f422f448b96b60ae648e7195ee1229b775c0b3ddf8f3ce81f25da9d565799fff"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "dafif_official",
+      "requirement": "fish sensors",
+      "candidate_source": "Mendeley DaFiF v1",
+      "url": "https://data.mendeley.com/datasets/vx4ptwk3pb/1",
+      "doi": "10.17632/vx4ptwk3pb.1",
+      "license": "CC BY 4.0",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 27120,
+      "time_coverage": "Indonesia; 2024-01-19 to 2024-01-29",
+      "join_keys": "recording_group_id, source_row",
+      "limitation": "sensor training features only; fish ID and temperature absent",
+      "grain": "recording_group_id, source_row",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "critical",
+      "confidence": "high",
+      "supports_training": "features only; no paired measured target",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "dafif_article",
+      "requirement": "quality scores",
+      "candidate_source": "Prasetyo et al. Table 3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11528684/",
+      "doi": "",
+      "license": "article rights; source data CC BY 4.0",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 774,
+      "time_coverage": "Indonesia; storage days 1\u201311",
+      "join_keys": "species_common, storage day, session only",
+      "limitation": "assessed different fish; ecological link, no individual target",
+      "grain": "species_common, storage day, session only",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "critical",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "trout",
+      "requirement": "fish sensors and measured microbiology",
+      "candidate_source": "Rainbow trout multimodal v4",
+      "url": "https://zenodo.org/records/23600663",
+      "doi": "10.5281/zenodo.23600663",
+      "license": "CC BY 4.0",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "selected_tabular_members_downloaded",
+      "number_of_records": 25221,
+      "time_coverage": "7 days at nominal 4 \u00b0C",
+      "join_keys": "fillet_id for sensors; separate microbiology_sample_id",
+      "limitation": "21 TVC measured on distinct fillets; embedded sensor labels are day-level proxies",
+      "grain": "fillet_id for sensors; separate microbiology_sample_id",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "features only; no paired measured target",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "mpeda",
+      "requirement": "India context",
+      "candidate_source": "MPEDA 2025-26 annual exports",
+      "url": "https://mpeda.gov.in/?page_id=438",
+      "doi": "",
+      "license": "official public download; reuse terms review",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 10788,
+      "time_coverage": "India FY1995-96 to 2025-26",
+      "join_keys": "dimension + financial_year + measure",
+      "limitation": "separate item/market/port marginals; no shipment rows",
+      "grain": "dimension + financial_year + measure",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": true,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "berry",
+      "requirement": "thermal proxy",
+      "candidate_source": "Berry citrus reefer v2",
+      "url": "https://data.mendeley.com/datasets/mvr7m6mcgp/2",
+      "doi": "10.17632/mvr7m6mcgp.2",
+      "license": "CC BY 4.0",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 31140,
+      "time_coverage": "six experiments",
+      "join_keys": "file + elapsed_hours + position",
+      "limitation": "citrus, not seafood; no fish quality",
+      "grain": "file + elapsed_hours + position",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": true,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "coldroom",
+      "requirement": "operations proxy",
+      "candidate_source": "Henrichs cold room Zenodo",
+      "url": "https://zenodo.org/records/15130001",
+      "doi": "10.5281/zenodo.15130001",
+      "license": "CC BY 4.0 per record; verify",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 1411515,
+      "time_coverage": "2024-09",
+      "join_keys": "sensor_id + local_timestamp",
+      "limitation": "generic cold room; no fish quality",
+      "grain": "sensor_id + local_timestamp",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": true,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "catfish",
+      "requirement": "thermal quality experiment",
+      "candidate_source": "smoked catfish package data",
+      "url": "https://data.mendeley.com/datasets/tvsw53j89z/1",
+      "doi": "10.17632/tvsw53j89z.1",
+      "license": "CC BY 4.0",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 336,
+      "time_coverage": "90 days",
+      "join_keys": "package_type, storage_condition, time, replicate_index, outcome",
+      "limitation": "smoked catfish; treatment temperature ranges; processing run unavailable",
+      "grain": "package_type, storage_condition, time, replicate_index, outcome",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "smoked-catfish-only",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "seabream_2022",
+      "requirement": "thermal quality candidate",
+      "candidate_source": "Gilthead sea bream fillets",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9367857/",
+      "doi": "",
+      "license": "article open access",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "article_obtained",
+      "number_of_records": 0,
+      "time_coverage": "0,4,8,12 \u00b0C experiment",
+      "join_keys": "no machine-readable replicate table identified",
+      "limitation": "published model metrics; raw paired observations needed",
+      "grain": "no machine-readable replicate table identified",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "low",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "horse_mackerel",
+      "requirement": "thermal quality candidate",
+      "candidate_source": "Japanese horse mackerel microbiology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9391519/",
+      "doi": "",
+      "license": "article open access",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "article_obtained",
+      "number_of_records": 0,
+      "time_coverage": "4/20 \u00b0C experiments",
+      "join_keys": "paper table only",
+      "limitation": "not source-level rows; different species",
+      "grain": "paper table only",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "low",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "hammond",
+      "requirement": "general thermal evidence",
+      "candidate_source": "Hammond Dryad supplemental",
+      "url": "https://datadryad.org/dataset/doi:10.5061/dryad.6708r",
+      "doi": "10.5061/dryad.6708r",
+      "license": "Dryad page; check file license",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "access_restricted_403",
+      "number_of_records": 0,
+      "time_coverage": "general food microbe",
+      "join_keys": "none",
+      "limitation": "not fish-specific; file download 403",
+      "grain": "none",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "low",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "noaa",
+      "requirement": "thermal reference",
+      "candidate_source": "Doyle seafood shelf life 1989",
+      "url": "https://repository.library.noaa.gov/view/noaa/34680",
+      "doi": "",
+      "license": "public domain",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 0,
+      "time_coverage": "literature summary",
+      "join_keys": "none",
+      "limitation": "compiled shelf-life estimates, not replicate observations",
+      "grain": "none",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "india_operations",
+      "requirement": "route evidence",
+      "candidate_source": "Indian seafood cold chain case study",
+      "url": "https://dmeo.gov.in/sites/default/files/2021-08/Package1_Fisheries_CaseStudy1.pdf",
+      "doi": "",
+      "license": "official report; review reuse",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "downloaded",
+      "number_of_records": 0,
+      "time_coverage": "India case study",
+      "join_keys": "none",
+      "limitation": "company practice, not export event logs",
+      "grain": "none",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "high",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": true,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "eu853",
+      "requirement": "regulatory",
+      "candidate_source": "EU Regulation 853/2004 current consolidation",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32004R0853",
+      "doi": "",
+      "license": "EU legal text",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "reference_verified",
+      "number_of_records": 0,
+      "time_coverage": "consolidation 2026-05-07",
+      "join_keys": "none",
+      "limitation": "current provisions are product/state specific",
+      "grain": "none",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "supporting",
+      "confidence": "low",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": true,
+      "supports_external_validation": false
+    },
+    {
+      "source_id": "shipment_validation",
+      "requirement": "external validation",
+      "candidate_source": "Indian exporter shipment and destination quality",
+      "url": "",
+      "doi": "",
+      "license": "private; permission needed",
+      "date_accessed_utc": "2026-10-27",
+      "acquisition_status": "blocked",
+      "number_of_records": 0,
+      "time_coverage": "unavailable",
+      "join_keys": "shipment_id, lot_id",
+      "limitation": "no independent paired records found",
+      "grain": "shipment_id, lot_id",
+      "required_columns_and_units": "see docs/data_requirements_matrix.md",
+      "target_species_state_region": "chilled finfish / India\u2013EU primary scenario; source-specific deviations noted",
+      "priority": "critical",
+      "confidence": "low",
+      "supports_training": "no",
+      "supports_calibration": "no",
+      "supports_scenario_input": false,
+      "supports_external_validation": false
+    }
+  ],
+  "curated_tables": {
+    "fish_sensor_observations": 27120,
+    "freshness_observed_labels": 774,
+    "mpeda_export_statistics": 10788,
+    "fish_temperature_quality_experiments": 336,
+    "citrus_reefer_temperature_proxy": 31140,
+    "coldroom_temperature_proxy": 1411515,
+    "trout_sensor_observations": 25200,
+    "trout_microbiology_outcomes": 21,
+    "trout_modality_availability": 413,
+    "coldroom_actions_proxy": 127,
+    "regulatory_reference": 2,
+    "route_stage_catalog": 7,
+    "thermal_deterioration_evidence": 2
+  }
+}

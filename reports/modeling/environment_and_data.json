@@ -1,0 +1,24 @@
+{
+  "python": "3.12.16",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.4",
+  "pandas": "2.3.3",
+  "scipy": "1.16.2",
+  "sklearn": "1.7.2",
+  "matplotlib": "3.10.7",
+  "seed": 47,
+  "protocol_sha256": "7755ee2440e85a014ac8225601831a4ad82e9984933265b4459a50c6cc467f82",
+  "curated_sha256": {
+    "fish_sensor_observations": "0b2eef399c772e6c81c497985cf854dc279e4cf6c552181264f328be3f22136b",
+    "fish_temperature_quality_experiments": "88ab505543b18228494007e565284f175e6552ea67755a60a3f308fbef087b7a",
+    "freshness_observed_labels": "d5565a2c91002c0944808a873bc8ee700014aeb0b76ca35e2b2de13b0728bddd",
+    "trout_microbiology_outcomes": "95d2f0bac2f88897e76d4b86619b5b3d2dddd4b20616456033822fd2f23c6a8b",
+    "trout_sensor_observations": "c982257855433d276ac885ab7dfdd64ee256457150c88aff9f4a8f02cb1c372b"
+  },
+  "artifact_sha256": {
+    "models\\exploration\\dafif_workbooks.joblib": "84ef9d050dc10320f692237f6094bc83f138773d0b2103ab2b8fa56987cfeb90",
+    "models\\freshness\\trout_tvc.joblib": "e4f5f0ce0ba26b1baac82b3ab78c541b55a7063fe607d2819cb9018d3809b56c",
+    "models\\thermal\\smoked_catfish_endpoints.json": "fc0e0de9bf148f97740978853f6aaaedc286d54ed2ef6bcc50043f2ef297ccca",
+    "models\\thermal\\smoked_catfish_peroxide.json": "e425df2329c7f4610941611c9b1e2998a21ce73e182e95fd00beae488c469e88"
+  }
+}

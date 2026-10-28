@@ -1,0 +1,17 @@
+{
+  "linear_cv_mae_95pct_day_bootstrap": [
+    0.23330045501594723,
+    0.9356423922896692
+  ],
+  "mean_baseline_cv_mae_95pct_day_bootstrap": [
+    0.42488939763939765,
+    1.7458932844932846
+  ],
+  "baseline_minus_linear_mae_95pct_day_bootstrap": [
+    -0.267408605666122,
+    1.1505454725143722
+  ],
+  "n_resampled_day_groups": 6,
+  "n_bootstrap_draws": 10000,
+  "warning": "Single study and six cohorts; percentile intervals are unstable and not deployment uncertainty."
+}
